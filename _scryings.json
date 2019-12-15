@@ -240,111 +240,6 @@
             "uuid": "7baae9d6-cc69-5712-bc18-53171338d91a"
         },
         {
-            "artist": "Randy Gallegos",
-            "borderColor": "black",
-            "colorIdentity": [
-                "B"
-            ],
-            "colors": [
-                "B"
-            ],
-            "convertedManaCost": 2.0,
-            "edhrecRank": 1385,
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Totentanz",
-                    "text": "Nimm eine Kreatur Deiner Wahl von irgendeinem Friedhof und bringe sie getappt unter Deiner Kontrolle mit +1/+1 direkt ins Spiel. Behandele diese Kreatur, als sei sie gerade beschworen worden. Diese Kreatur enttappt nicht während der Enttapp-Phase ihres Beherrschers. Am Ende seiner Versorgungsphase kann der Beherrscher zusätzlich 1B Bezahlen, um sie zu enttappen. Wenn der Totentanz entfernt wird, begrabe auch die Kreatur auf dem Friedhof ihres Besitzers.",
-                    "type": "Verzaubere eine tote Kreatur"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Danza de los muertos"
-                },
-                {
-                    "language": "French",
-                    "name": "Danse macabre"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Danza dei Morti"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Dança dos Mortos"
-                }
-            ],
-            "frameVersion": "1993",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isPaper": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{1}{B}",
-            "mcmId": 6218,
-            "mcmMetaId": 1278,
-            "multiverseId": 2442,
-            "name": "Dance of the Dead",
-            "number": "118",
-            "originalText": "Take target creature from any graveyard and put it directly into play under your control, tapped, with +1/+1. Treat that creature as though it were just summoned. The creature does not untap during its controller's untap phase. At the end of his or her upkeep, its controller may pay an additional o1oB to untap it. If Dance of the Dead is removed, bury the creature in its owner's graveyard.",
-            "originalType": "Enchant Dead Creature",
-            "prices": {
-                "mtgo": {},
-                "mtgoFoil": {},
-                "paper": {
-                    "2019-11-30": 5.83
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "ICE",
-                "ME2",
-                "PTC"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/264638b1fcc355bd",
-                "tcgplayer": "https://mtgjson.com/links/fd7d77de225b3254"
-            },
-            "rarity": "uncommon",
-            "rulings": [
-                {
-                    "date": "2004-10-04",
-                    "text": "If more than one Dance of the Dead ends up on a creature, each contributes a +1/+1. But you only have to pay the untap cost once. You may pay for each one, however, and untap the card more than once during upkeep."
-                },
-                {
-                    "date": "2008-04-01",
-                    "text": "This is a new wording. Dance of the Dead is now an Aura. You target a creature card in a graveyard when you cast it. It enters the battlefield attached to that card. Then it returns that card to the battlefield, and attaches itself to that card again (since the card is treated as a new object on the battlefield)."
-                },
-                {
-                    "date": "2008-04-01",
-                    "text": "Once the creature is returned to the battlefield, Dance of the Dead can’t be attached to anything other than it (unless Dance of the Dead somehow manages to put a different creature onto the battlefield). Attempting to move Dance of the Dead to another creature won’t work."
-                },
-                {
-                    "date": "2008-04-01",
-                    "text": "If the creature card put onto the battlefield has protection from black (or anything that prevents this from legally being attached), this won’t be able to attach to it. Then this will go to the graveyard as a state-based action, causing the creature to be sacrificed."
-                }
-            ],
-            "scryfallId": "e7c53ba4-9956-4cd6-85ca-2d6b61a5127c",
-            "scryfallIllustrationId": "f656af0a-f54a-430a-b39f-319ae7ee5ced",
-            "scryfallOracleId": "15d5b198-edbe-40f3-87e2-d72f7f0c58ab",
-            "subtypes": [
-                "Aura"
-            ],
-            "supertypes": [],
-            "tcgplayerProductId": 4639,
-            "text": "Enchant creature card in a graveyard\nWhen Dance of the Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Dance of the Dead.\" Put enchanted creature card onto the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets +1/+1 and doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If the player does, untap that creature.",
-            "type": "Enchantment — Aura",
-            "types": [
-                "Enchantment"
-            ],
-            "uuid": "d8a02189-4d8a-5ed8-aad3-ac5121f773f1"
-        },
-        {
             "artist": "Cornelius Brudi",
             "borderColor": "black",
             "colorIdentity": [
@@ -729,191 +624,6 @@
             "variations": [
                 "1d1537eb-37f4-511a-8cc7-f38eaad6e5a3"
             ]
-        },
-        {
-            "artist": "Jeff A. Menges",
-            "borderColor": "black",
-            "colorIdentity": [],
-            "colors": [],
-            "convertedManaCost": 0.0,
-            "edhrecRank": 3082,
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Tauende Gletscher",
-                    "text": "Kommt getappt ins Spiel.\n{1}, {T}: Durchsuche Deine Bibliothek nach irgendeinem Standartland und bringe es sofort getappt ins Spiel. Dieses zählt nicht zu der 'ein-Land-pro-Runde'-Beschränkung.\nMische Deine Bibliothek danach neu. Bringe die Tauenden Gletscher am Ende des Zuges auf die Hand ihres Besitzers zurück.",
-                    "type": "Land"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Glaciares menguantes"
-                },
-                {
-                    "language": "French",
-                    "name": "Glaciers en dégel"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Ghiacciai in Disgelo"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Geleiras Minguantes"
-                }
-            ],
-            "frameVersion": "1993",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isPaper": true,
-            "isReserved": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "penny": "Legal",
-                "vintage": "Legal"
-            },
-            "mcmId": 8041,
-            "mcmMetaId": 5917,
-            "multiverseId": 3238,
-            "name": "Thawing Glaciers",
-            "number": "144",
-            "originalText": "Comes into play tapped.\no1, ocT: Search your library for a basic land and put it into play tapped. This does not count towards your one land per turn limit. Shuffle your library afterwards. At end of turn, return Thawing Glaciers to owner's hand.",
-            "originalType": "Land",
-            "prices": {
-                "mtgo": {},
-                "mtgoFoil": {},
-                "paper": {
-                    "2019-11-30": 11.99
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "ALL",
-                "G10",
-                "ME1",
-                "PRM",
-                "VMA",
-                "WC97"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/d00f9f41029deea1",
-                "tcgplayer": "https://mtgjson.com/links/173deaaf2f52bf79"
-            },
-            "rarity": "rare",
-            "rulings": [
-                {
-                    "date": "2004-10-04",
-                    "text": "The land put onto the battlefield does not count toward your one per turn limit because it was put onto the battlefield by an effect."
-                },
-                {
-                    "date": "2004-10-04",
-                    "text": "Because the “search” requires you to find a card with certain characteristics, you don’t have to find the card if you don’t want to."
-                }
-            ],
-            "scryfallId": "6411a8c6-010f-4863-a0fa-bbebe09d5c34",
-            "scryfallIllustrationId": "eb540d5e-ff1c-418f-9fb0-a896818de3c3",
-            "scryfallOracleId": "c6792d9f-8b74-43c4-814f-ba4adab2fdea",
-            "subtypes": [],
-            "supertypes": [],
-            "tcgplayerProductId": 4266,
-            "text": "Thawing Glaciers enters the battlefield tapped.\n{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner's hand at the beginning of the next cleanup step.",
-            "type": "Land",
-            "types": [
-                "Land"
-            ],
-            "uuid": "5ee62f7d-b95e-543c-9800-50865736f1bc"
-        },
-        {
-            "artist": "Phil Foglio",
-            "borderColor": "black",
-            "colorIdentity": [
-                "U"
-            ],
-            "colors": [
-                "U"
-            ],
-            "convertedManaCost": 4.0,
-            "edhrecRank": 17553,
-            "flavorText": "\"Once great literature—now great litter.\"\n—Jaya Ballard, Task Mage",
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Durchstöbern",
-                    "text": "{2}{U}{U}: Schau Dir die obersten fünf Karten Deiner Bibliothek an und nimm eine davon auf Deine Hand. Entferne die übrigen vier Karten aus dem Spiel.",
-                    "type": "Verzauberung"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Hojear"
-                },
-                {
-                    "language": "French",
-                    "name": "Feuilletage"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Curiosare"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Folhear"
-                }
-            ],
-            "frameVersion": "1993",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isMtgo": true,
-            "isPaper": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{2}{U}{U}",
-            "mcmId": 7890,
-            "mcmMetaId": 733,
-            "mtgoId": 24487,
-            "multiverseId": 3103,
-            "name": "Browse",
-            "number": "25",
-            "originalText": "o2oUoU: Look at the top five cards of your library and put one of them into your hand. Remove the remaining four from the game.",
-            "originalType": "Enchantment",
-            "prices": {
-                "mtgo": {},
-                "mtgoFoil": {},
-                "paper": {
-                    "2019-11-30": 0.1
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "6ED",
-                "ALL",
-                "CST",
-                "ME2"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/ec11ee261f82fdf5",
-                "tcgplayer": "https://mtgjson.com/links/abd285e8b11e18ca"
-            },
-            "rarity": "uncommon",
-            "rulings": [],
-            "scryfallId": "578549f0-5643-4891-b467-2d1cb49fe4ea",
-            "scryfallIllustrationId": "20ea55ab-8e77-429c-b7b8-31a636b193dc",
-            "scryfallOracleId": "49491601-e272-4603-9348-185a2953bd4b",
-            "subtypes": [],
-            "supertypes": [],
-            "tcgplayerProductId": 4114,
-            "text": "{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest.",
-            "type": "Enchantment",
-            "types": [
-                "Enchantment"
-            ],
-            "uuid": "429fc207-7966-5941-a116-9857c13726b6"
         },
         {
             "artist": "Mark Tedin",
@@ -1673,108 +1383,6 @@
                 "Creature"
             ],
             "uuid": "22d351fb-7921-5c31-8c48-551b0339a17d"
-        },
-        {
-            "artist": "Mike Kimble",
-            "borderColor": "black",
-            "colorIdentity": [
-                "B"
-            ],
-            "colors": [
-                "B"
-            ],
-            "convertedManaCost": 3.0,
-            "edhrecRank": 12394,
-            "flavorText": "There are medicines for all afflictions but idleness. —Suq'Ata saying",
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Benommenheit",
-                    "text": "Ein Gegner Deiner Wahl muß eine zufällig gezogene Karte aus seiner Hand abwerfen und wählt danach eine Karte aus seiner Hand und wirft diese ebenfalls ab.",
-                    "type": "Hexerei"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Estupor"
-                },
-                {
-                    "language": "French",
-                    "name": "Stupeur"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Torpore"
-                },
-                {
-                    "language": "Japanese",
-                    "name": "呆然"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Estupor"
-                }
-            ],
-            "frameVersion": "1997",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isMtgo": true,
-            "isPaper": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "modern": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{2}{B}",
-            "mcmId": 8096,
-            "mcmMetaId": 5678,
-            "mtgoFoilId": 7336,
-            "mtgoId": 7335,
-            "multiverseId": 3316,
-            "name": "Stupor",
-            "number": "147",
-            "originalText": "Target opponent discards a card at random, then chooses and discards a card.",
-            "originalType": "Sorcery",
-            "prices": {
-                "mtgo": {
-                    "2019-12-01": 0.04
-                },
-                "mtgoFoil": {
-                    "2019-12-01": 0.32
-                },
-                "paper": {
-                    "2019-11-30": 0.3
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "6ED",
-                "MIR",
-                "PAL00",
-                "PRM",
-                "TSB",
-                "WC99"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/6706dec5b3bf4c3f",
-                "tcgplayer": "https://mtgjson.com/links/9a7bf93d67da1284"
-            },
-            "rarity": "uncommon",
-            "rulings": [],
-            "scryfallId": "0fed2498-20ce-48ad-a56e-2c7e297c0c66",
-            "scryfallIllustrationId": "11e9d39a-342d-4a08-9495-395de5f36fcb",
-            "scryfallOracleId": "c19e3560-d304-4d91-aa2a-463d7dbb35bb",
-            "subtypes": [],
-            "supertypes": [],
-            "tcgplayerProductId": 5245,
-            "text": "Target opponent discards a card at random, then discards a card.",
-            "type": "Sorcery",
-            "types": [
-                "Sorcery"
-            ],
-            "uuid": "d7e9dd5b-3cd7-51e1-8b23-a6e803d52c36"
         },
         {
             "artist": "Jock",
@@ -3032,109 +2640,6 @@
                 "Creature"
             ],
             "uuid": "7372e65c-87e4-5621-987e-8f7d730a49a6"
-        },
-        {
-            "artist": "Donato Giancola",
-            "borderColor": "black",
-            "colorIdentity": [],
-            "colors": [],
-            "convertedManaCost": 4.0,
-            "edhrecRank": 14394,
-            "flavorText": "Every line holds a tale, and between lie a thousand more.",
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Zauberbuch der Thran",
-                    "text": "5, {T}: Zeige die obersten drei Karten Deiner Bibliothek einem Gegner Deiner Wahl. Begrabe eine dieser Karten, die dieser Gegner auswählt. Ziehe die übrigen Karten.",
-                    "type": "Artefakt"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Volumen de Thran"
-                },
-                {
-                    "language": "French",
-                    "name": "Grimoire de Thran"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Tomo di Thran"
-                },
-                {
-                    "language": "Japanese",
-                    "name": "スランの秘本"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Livro de Thran"
-                }
-            ],
-            "frameVersion": "1997",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isMtgo": true,
-            "isPaper": true,
-            "isReserved": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "penny": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{4}",
-            "mcmId": 8728,
-            "mcmMetaId": 5968,
-            "mtgoFoilId": 9262,
-            "mtgoId": 9261,
-            "multiverseId": 4443,
-            "name": "Thran Tome",
-            "number": "160",
-            "originalText": "o5, ocT: Reveal the top three cards of your library to target opponent. Bury one of those cards of that opponent's choice. Draw the remaining cards.",
-            "originalType": "Artifact",
-            "prices": {
-                "mtgo": {
-                    "2019-12-01": 0.03
-                },
-                "mtgoFoil": {
-                    "2019-12-01": 0.24
-                },
-                "paper": {
-                    "2019-11-30": 0.5
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "WTH"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/55789ace9c9196ae",
-                "tcgplayer": "https://mtgjson.com/links/105b1d1853beed43"
-            },
-            "rarity": "rare",
-            "rulings": [
-                {
-                    "date": "2006-10-15",
-                    "text": "It does not target the cards, but it targets the opponent. If you can’t target an opponent, you can’t activate this ability."
-                },
-                {
-                    "date": "2007-05-01",
-                    "text": "After the opponent chooses which card to put into your graveyard, you draw two cards regardless of how many were actually revealed or how many you have left in your library."
-                }
-            ],
-            "scryfallId": "63db7360-fe6e-430f-bfee-a2f80bcb6fec",
-            "scryfallIllustrationId": "d05e58dc-867c-4534-8316-95a424074434",
-            "scryfallOracleId": "78d2a3fd-864c-49f3-b531-c71dc3b35977",
-            "subtypes": [],
-            "supertypes": [],
-            "tcgplayerProductId": 6113,
-            "text": "{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.",
-            "type": "Artifact",
-            "types": [
-                "Artifact"
-            ],
-            "uuid": "439b2c8c-edc8-5e0b-96b5-dfc194debe12"
         },
         {
             "artist": "Rick Emond",
@@ -5689,6 +5194,212 @@
                 "Land"
             ],
             "uuid": "bf85e4b6-8b45-5bae-97f2-efa77885336b"
+        },
+        {
+            "artist": "Christopher Rush",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 5.0,
+            "edhrecRank": 15798,
+            "flavorText": "\"Eron would be much less of a hassle if only he were mortal.\" —Reyhan, Samite Alchemist",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Eron der Unbarmherzige",
+                    "text": "Eron der Unbarmherzige kann während des Zuges, in dem er auf Deiner Seite ins Spiel kommt, angreifen.\n{R}{R}{R}: Regeneration",
+                    "type": "Beschwörung einer Legende"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Eron el Implacable"
+                },
+                {
+                    "language": "French",
+                    "name": "Ehron l'implacable"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Eron l'Implacabile"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Eron, o Implacável"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "leadershipSkills": {
+                "brawl": false,
+                "commander": true,
+                "oathbreaker": false
+            },
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{R}{R}",
+            "mcmId": 7805,
+            "mcmMetaId": 1849,
+            "multiverseId": 3002,
+            "name": "Eron the Relentless",
+            "number": "73",
+            "originalText": "Eron the Relentless can attack the turn it comes into play on your side.\noRoRooR Regenerate",
+            "originalType": "Summon - Legend",
+            "power": "5",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.13
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "HML",
+                "PTC",
+                "TSB"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/6ffcfc4a1952f610",
+                "tcgplayer": "https://mtgjson.com/links/9b3ab6b1b5c1d23f"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "b6329bd9-1e03-43e6-b50b-8abe1356ffcc",
+            "scryfallIllustrationId": "da0b5e19-300f-4309-ac6a-49d7ff30a2f9",
+            "scryfallOracleId": "cabcc2b7-0cdb-4ec2-b6a3-47644335abff",
+            "subtypes": [
+                "Human",
+                "Rogue"
+            ],
+            "supertypes": [
+                "Legendary"
+            ],
+            "tcgplayerProductId": 4489,
+            "text": "Haste\n{R}{R}{R}: Regenerate Eron the Relentless.",
+            "toughness": "2",
+            "type": "Legendary Creature — Human Rogue",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "2eced610-52ae-5eca-a699-7ec52282d7af"
+        },
+        {
+            "artist": "Margaret Organ-Kean",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 4852,
+            "flavorText": "\"Do not go there, do not go / unless you rise on wings, unless you walk on hooves.\" —\"Song to the Sun,\" Femeref song",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Heiliger Tafelberg",
+                    "text": "Opfere während Deiner Versorgungsphase einen Pegasus oder begrabe den Heiligen Tafelberg.\n{1}{W}: Bringe einen Wildpegasus- Spielstein ins Spiel. Behandle diesen Spielstein wie eine 1/1 fliegende weiße Kreatur, die als Pegasus zählt.",
+                    "type": "Verzauberung"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Meseta sagrada"
+                },
+                {
+                    "language": "French",
+                    "name": "Mesa sacrée"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Mesa Inviolabile"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "聖なるメサ"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Meseta Sagrada"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{W}",
+            "mcmId": 8292,
+            "mcmMetaId": 4858,
+            "mtgoFoilId": 7266,
+            "mtgoId": 7265,
+            "multiverseId": 3512,
+            "name": "Sacred Mesa",
+            "number": "37",
+            "originalText": "During your upkeep, sacrifice a Pegasus or bury Sacred Mesa.\no1ooW Put a Wild Pegasus token into play. Treat this token as a 1/1 white creature with flying that counts as a Pegasus.",
+            "originalType": "Enchantment",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.09
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.63
+                },
+                "paper": {
+                    "2019-11-30": 0.32
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ATH",
+                "C14",
+                "MIR",
+                "TSB"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/b6905cf1170da068",
+                "tcgplayer": "https://mtgjson.com/links/9f8917ad86101b4a"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "It can be used during upkeep to create a Pegasus token in time for it to be sacrificed."
+                }
+            ],
+            "scryfallId": "6622f325-6bc3-49dc-ba8e-154e70772dd5",
+            "scryfallIllustrationId": "2d748eb6-0f71-499e-a150-fe2ec8cdc0ad",
+            "scryfallOracleId": "8776d14f-a5a2-4ef3-98d0-e1148e579e4d",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5210,
+            "text": "At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus.\n{1}{W}: Create a 1/1 white Pegasus creature token with flying.",
+            "type": "Enchantment",
+            "types": [
+                "Enchantment"
+            ],
+            "uuid": "926dd5e9-4216-5404-a99a-2bf88f931b9d"
         }
     ],
     "code": "SRY",
@@ -5696,5 +5407,1033 @@
     "name": "Scryings",
     "releaseDate": "2019-12-28",
     "totalSetSize": 116,
-    "type": "expansion"
+    "type": "expansion",
+    "AlmostIn": [
+        {
+            "artist": "Phil Foglio",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 17553,
+            "flavorText": "\"Once great literature—now great litter.\"\n—Jaya Ballard, Task Mage",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Durchstöbern",
+                    "text": "{2}{U}{U}: Schau Dir die obersten fünf Karten Deiner Bibliothek an und nimm eine davon auf Deine Hand. Entferne die übrigen vier Karten aus dem Spiel.",
+                    "type": "Verzauberung"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Hojear"
+                },
+                {
+                    "language": "French",
+                    "name": "Feuilletage"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Curiosare"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Folhear"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{U}{U}",
+            "mcmId": 7890,
+            "mcmMetaId": 733,
+            "mtgoId": 24487,
+            "multiverseId": 3103,
+            "name": "Browse",
+            "number": "25",
+            "originalText": "o2oUoU: Look at the top five cards of your library and put one of them into your hand. Remove the remaining four from the game.",
+            "originalType": "Enchantment",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.1
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "ALL",
+                "CST",
+                "ME2"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/ec11ee261f82fdf5",
+                "tcgplayer": "https://mtgjson.com/links/abd285e8b11e18ca"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "578549f0-5643-4891-b467-2d1cb49fe4ea",
+            "scryfallIllustrationId": "20ea55ab-8e77-429c-b7b8-31a636b193dc",
+            "scryfallOracleId": "49491601-e272-4603-9348-185a2953bd4b",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4114,
+            "text": "{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest.",
+            "type": "Enchantment",
+            "types": [
+                "Enchantment"
+            ],
+            "uuid": "429fc207-7966-5941-a116-9857c13726b6"
+        },
+        {
+            "artist": "Randy Gallegos",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 1385,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Totentanz",
+                    "text": "Nimm eine Kreatur Deiner Wahl von irgendeinem Friedhof und bringe sie getappt unter Deiner Kontrolle mit +1/+1 direkt ins Spiel. Behandele diese Kreatur, als sei sie gerade beschworen worden. Diese Kreatur enttappt nicht während der Enttapp-Phase ihres Beherrschers. Am Ende seiner Versorgungsphase kann der Beherrscher zusätzlich 1B Bezahlen, um sie zu enttappen. Wenn der Totentanz entfernt wird, begrabe auch die Kreatur auf dem Friedhof ihres Besitzers.",
+                    "type": "Verzaubere eine tote Kreatur"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Danza de los muertos"
+                },
+                {
+                    "language": "French",
+                    "name": "Danse macabre"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Danza dei Morti"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Dança dos Mortos"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{B}",
+            "mcmId": 6218,
+            "mcmMetaId": 1278,
+            "multiverseId": 2442,
+            "name": "Dance of the Dead",
+            "number": "118",
+            "originalText": "Take target creature from any graveyard and put it directly into play under your control, tapped, with +1/+1. Treat that creature as though it were just summoned. The creature does not untap during its controller's untap phase. At the end of his or her upkeep, its controller may pay an additional o1oB to untap it. If Dance of the Dead is removed, bury the creature in its owner's graveyard.",
+            "originalType": "Enchant Dead Creature",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 5.83
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ICE",
+                "ME2",
+                "PTC"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/264638b1fcc355bd",
+                "tcgplayer": "https://mtgjson.com/links/fd7d77de225b3254"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "If more than one Dance of the Dead ends up on a creature, each contributes a +1/+1. But you only have to pay the untap cost once. You may pay for each one, however, and untap the card more than once during upkeep."
+                },
+                {
+                    "date": "2008-04-01",
+                    "text": "This is a new wording. Dance of the Dead is now an Aura. You target a creature card in a graveyard when you cast it. It enters the battlefield attached to that card. Then it returns that card to the battlefield, and attaches itself to that card again (since the card is treated as a new object on the battlefield)."
+                },
+                {
+                    "date": "2008-04-01",
+                    "text": "Once the creature is returned to the battlefield, Dance of the Dead can’t be attached to anything other than it (unless Dance of the Dead somehow manages to put a different creature onto the battlefield). Attempting to move Dance of the Dead to another creature won’t work."
+                },
+                {
+                    "date": "2008-04-01",
+                    "text": "If the creature card put onto the battlefield has protection from black (or anything that prevents this from legally being attached), this won’t be able to attach to it. Then this will go to the graveyard as a state-based action, causing the creature to be sacrificed."
+                }
+            ],
+            "scryfallId": "e7c53ba4-9956-4cd6-85ca-2d6b61a5127c",
+            "scryfallIllustrationId": "f656af0a-f54a-430a-b39f-319ae7ee5ced",
+            "scryfallOracleId": "15d5b198-edbe-40f3-87e2-d72f7f0c58ab",
+            "subtypes": [
+                "Aura"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4639,
+            "text": "Enchant creature card in a graveyard\nWhen Dance of the Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Dance of the Dead.\" Put enchanted creature card onto the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets +1/+1 and doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If the player does, untap that creature.",
+            "type": "Enchantment — Aura",
+            "types": [
+                "Enchantment"
+            ],
+            "uuid": "d8a02189-4d8a-5ed8-aad3-ac5121f773f1"
+        },
+        {
+            "artist": "Mark Tedin",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 1.0,
+            "edhrecRank": 15643,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Todesfunke",
+                    "text": "Der Todesfunke fügt einer Kreatur oder einem Spieler Deiner Wahl 1 Schadenspunkt zu.\nWenn am Ende der Versorgungsphase der Todesfunke in Deinem Friedhof ist, mit einer Kreaturenkarte, direkt über ihm, kannst Du {1} bezahlen, um ihn wieder auf Deine Hand zu nehmen.",
+                    "type": "Spontanzauber"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Chispazo letal"
+                },
+                {
+                    "language": "French",
+                    "name": "Etincelle de mort"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Scintilla Mortale"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Centelha Letal"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{R}",
+            "mcmId": 7955,
+            "mcmMetaId": 1363,
+            "mtgoId": 24493,
+            "multiverseId": 3168,
+            "name": "Death Spark",
+            "number": "70",
+            "originalText": "Death Spark deals 1 damage to target creature or player.\nAt the end of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay o1 to put Death Spark into your hand.",
+            "originalType": "Instant",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.21
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL",
+                "CST",
+                "DKM",
+                "ME2"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/631b8c457e011649",
+                "tcgplayer": "https://mtgjson.com/links/c5f9eb390a108b48"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2008-10-01",
+                    "text": "A card is “directly above” another card in your graveyard if it was put into that graveyard later and there are no cards in between the two."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "Players may not rearrange the cards in their graveyards."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "The last thing that happens to a resolving instant or sorcery spell is that it’s put into its owner’s graveyard. Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "Say you’re the owner of both a permanent and an Aura that’s attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma’s Vengeance, for example), you decide the order they’re put into your graveyard. If just the enchanted permanent is destroyed, it’s put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it."
+                }
+            ],
+            "scryfallId": "ba841b44-475c-402c-ac11-763de0cf27d9",
+            "scryfallIllustrationId": "b46cd171-cb32-4802-8050-d3eeb20f2469",
+            "scryfallOracleId": "4b23a89c-89ba-41ad-b894-ec02221689eb",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4124,
+            "text": "Death Spark deals 1 damage to any target.\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "0f627b76-522e-5d95-8e82-614b2c7fcbbd"
+        },
+        {
+            "artist": "Christopher Rush",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 11595,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Krovikanischer Schrecken",
+                    "text": "Wenn sich der Krovikanische Schrecken am Ende eines Zuges mit einer Beschwörungskarte direkt über ihm in Deinem Friedhof befindet, kannst Du den Krovikanischen Schrecken wieder auf Deine Hand nehmen.\n{1}: Opfere eine Kreatur, damit der Krovikanische Schrecken einer Kreatur oder einem Spieler Deiner Wahl 1 Schadenspunkt zufügt.",
+                    "type": "Beschwörung eines Schrecken"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Horror krovikano"
+                },
+                {
+                    "language": "French",
+                    "name": "Horreur krovoise"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Orrore di Krov"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Horror Krovikano"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isReserved": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{B}",
+            "mcmId": 7867,
+            "mcmMetaId": 3153,
+            "multiverseId": 3080,
+            "name": "Krovikan Horror",
+            "number": "53",
+            "originalText": "At the end of any turn, if Krovikan Horror is in your graveyard with a summon card directly above it, you may put Krovikan Horror into your hand.\no1: Sacrifice a creature to have Krovikan Horror deal 1 damage to target creature or player.",
+            "originalType": "Summon - Horror",
+            "power": "2",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.83
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL",
+                "ME2"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/53a2bdf387332282",
+                "tcgplayer": "https://mtgjson.com/links/d6acb3c1a79e57bc"
+            },
+            "rarity": "rare",
+            "rulings": [],
+            "scryfallId": "e1f3cb1c-6bde-4b55-b5bc-5b64b56930f2",
+            "scryfallIllustrationId": "b6c449f6-f29e-488b-9c2a-15dd33d86dce",
+            "scryfallOracleId": "a4c15223-784f-43a7-8626-30f96ccfdcaf",
+            "subtypes": [
+                "Horror",
+                "Spirit"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4181,
+            "text": "At the beginning of the end step, if Krovikan Horror is in your graveyard with a creature card directly above it, you may return Krovikan Horror to your hand.\n{1}, Sacrifice a creature: Krovikan Horror deals 1 damage to any target.",
+            "toughness": "2",
+            "type": "Creature — Horror Spirit",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "a15d1601-c09d-5418-ae8a-55e97d7d56fd"
+        },
+        {
+            "artist": "Jeff A. Menges",
+            "borderColor": "black",
+            "colorIdentity": [],
+            "colors": [],
+            "convertedManaCost": 0.0,
+            "edhrecRank": 3082,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Tauende Gletscher",
+                    "text": "Kommt getappt ins Spiel.\n{1}, {T}: Durchsuche Deine Bibliothek nach irgendeinem Standartland und bringe es sofort getappt ins Spiel. Dieses zählt nicht zu der 'ein-Land-pro-Runde'-Beschränkung.\nMische Deine Bibliothek danach neu. Bringe die Tauenden Gletscher am Ende des Zuges auf die Hand ihres Besitzers zurück.",
+                    "type": "Land"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Glaciares menguantes"
+                },
+                {
+                    "language": "French",
+                    "name": "Glaciers en dégel"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Ghiacciai in Disgelo"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Geleiras Minguantes"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isReserved": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "mcmId": 8041,
+            "mcmMetaId": 5917,
+            "multiverseId": 3238,
+            "name": "Thawing Glaciers",
+            "number": "144",
+            "originalText": "Comes into play tapped.\no1, ocT: Search your library for a basic land and put it into play tapped. This does not count towards your one land per turn limit. Shuffle your library afterwards. At end of turn, return Thawing Glaciers to owner's hand.",
+            "originalType": "Land",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 11.99
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL",
+                "G10",
+                "ME1",
+                "PRM",
+                "VMA",
+                "WC97"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/d00f9f41029deea1",
+                "tcgplayer": "https://mtgjson.com/links/173deaaf2f52bf79"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The land put onto the battlefield does not count toward your one per turn limit because it was put onto the battlefield by an effect."
+                },
+                {
+                    "date": "2004-10-04",
+                    "text": "Because the “search” requires you to find a card with certain characteristics, you don’t have to find the card if you don’t want to."
+                }
+            ],
+            "scryfallId": "6411a8c6-010f-4863-a0fa-bbebe09d5c34",
+            "scryfallIllustrationId": "eb540d5e-ff1c-418f-9fb0-a896818de3c3",
+            "scryfallOracleId": "c6792d9f-8b74-43c4-814f-ba4adab2fdea",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4266,
+            "text": "Thawing Glaciers enters the battlefield tapped.\n{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner's hand at the beginning of the next cleanup step.",
+            "type": "Land",
+            "types": [
+                "Land"
+            ],
+            "uuid": "5ee62f7d-b95e-543c-9800-50865736f1bc"
+        },
+        {
+            "artist": "Ron Spencer",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 12145,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Aschfahler Ghoul",
+                    "text": "Der Aschfahle Ghoul kann bereits in dem Zug angreifen, in dem er ins Spiel kommt.\n{B}: Bringe den Aschfahlen Ghoul wieder zurück ins Spiel unter Deine Kontrolle. Benutze diese Eigenschaft nur am Ende Deiner Versorgungsphase, und nur, wenn mindestens drei Kreaturen über den Aschfahlen Ghoul auf dem Friedhof liegen.",
+                    "type": "Beschwörung eines Ghouls"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Gul ceniciento"
+                },
+                {
+                    "language": "French",
+                    "name": "Goule cendreuse"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Ghoul delle Ceneri"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Carniçal Cinéreo"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{B}",
+            "mcmId": 6214,
+            "mcmMetaId": 312,
+            "mtgoId": 24393,
+            "multiverseId": 2438,
+            "name": "Ashen Ghoul",
+            "number": "114",
+            "originalText": "Ashen Ghoul can attack the turn it comes into play.\nooB Return Ashen Ghoul to play under your control. Use this ability only at the end of your upkeep and only if Ashen Ghoul is in your graveyard with at least three creature cards above it.",
+            "originalType": "Summon - Ghoul",
+            "power": "3",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.2
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "CST",
+                "ICE",
+                "ME2"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/09a6319d8bb6ca6b",
+                "tcgplayer": "https://mtgjson.com/links/eabee6aaeeceb344"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2008-10-01",
+                    "text": "A card is “above” another card in your graveyard if it was put into that graveyard later."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "Players may not rearrange the cards in their graveyards."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "The last thing that happens to a resolving instant or sorcery spell is that it’s put into its owner’s graveyard. Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "Say you’re the owner of both a permanent and an Aura that’s attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma’s Vengeance, for example), you decide the order they’re put into your graveyard. If just the enchanted permanent is destroyed, it’s put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it."
+                }
+            ],
+            "scryfallId": "6bb83301-5662-4628-b536-6a3ee0296f2e",
+            "scryfallIllustrationId": "2ff944f5-50ff-4a6c-90d1-9353e986a7c7",
+            "scryfallOracleId": "46fbcbdf-73d0-4fa2-8db7-3b19bfc7ac22",
+            "subtypes": [
+                "Zombie"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4591,
+            "text": "Haste\n{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.",
+            "toughness": "1",
+            "type": "Creature — Zombie",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "d055fcfa-56ad-57a2-839a-45ce13157959"
+        },
+        {
+            "artist": "Mike Kimble",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 12394,
+            "flavorText": "There are medicines for all afflictions but idleness. —Suq'Ata saying",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Benommenheit",
+                    "text": "Ein Gegner Deiner Wahl muß eine zufällig gezogene Karte aus seiner Hand abwerfen und wählt danach eine Karte aus seiner Hand und wirft diese ebenfalls ab.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Estupor"
+                },
+                {
+                    "language": "French",
+                    "name": "Stupeur"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Torpore"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "呆然"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Estupor"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{B}",
+            "mcmId": 8096,
+            "mcmMetaId": 5678,
+            "mtgoFoilId": 7336,
+            "mtgoId": 7335,
+            "multiverseId": 3316,
+            "name": "Stupor",
+            "number": "147",
+            "originalText": "Target opponent discards a card at random, then chooses and discards a card.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.32
+                },
+                "paper": {
+                    "2019-11-30": 0.3
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "MIR",
+                "PAL00",
+                "PRM",
+                "TSB",
+                "WC99"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/6706dec5b3bf4c3f",
+                "tcgplayer": "https://mtgjson.com/links/9a7bf93d67da1284"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "0fed2498-20ce-48ad-a56e-2c7e297c0c66",
+            "scryfallIllustrationId": "11e9d39a-342d-4a08-9495-395de5f36fcb",
+            "scryfallOracleId": "c19e3560-d304-4d91-aa2a-463d7dbb35bb",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5245,
+            "text": "Target opponent discards a card at random, then discards a card.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "d7e9dd5b-3cd7-51e1-8b23-a6e803d52c36"
+        },
+        {
+            "artist": "Jon J Muth",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 1.0,
+            "edhrecRank": 3193,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Zehnteil",
+                    "text": "Durchsuche Deine Bibliothek nach einer Ebenenkarte. Wenn Du weniger Länder als ein Gegner Deiner Wahl kontrollierst, kannst Du Deine Bibliothek nach einer zusätzlichen Ebenenkarte durchsuchen. Zeige diese Karten allen Spielern und nimm sie auf. Mische Deine Bibliothek danach neu.",
+                    "type": "Spontanzauber"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Diezmo"
+                },
+                {
+                    "language": "French",
+                    "name": "Dîme"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Decima"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "税収"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Dízimo"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReserved": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{W}",
+            "mcmId": 8524,
+            "mcmMetaId": 6043,
+            "mtgoFoilId": 7764,
+            "mtgoId": 7763,
+            "multiverseId": 3730,
+            "name": "Tithe",
+            "number": "23",
+            "originalText": "Search your library for a plains card. If you control fewer lands than target opponent, you may search your library for an additional plains card. Reveal those cards to all players and put them into your hand. Shuffle your library afterwards.",
+            "originalType": "Instant",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 1.02
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 3.49
+                },
+                "paper": {
+                    "2019-11-30": 12.61
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "VIS",
+                "WC98"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/d09291fa439aa07c",
+                "tcgplayer": "https://mtgjson.com/links/ccc3299baa8a1534"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "Counts lands on resolution, not on announcement."
+                },
+                {
+                    "date": "2004-10-04",
+                    "text": "Because the “search” requires you to find a card with certain characteristics, you don’t have to find the card if you don’t want to."
+                }
+            ],
+            "scryfallId": "aae08938-e563-4322-b2eb-db81913ea730",
+            "scryfallIllustrationId": "cdb9f0cf-c397-4e26-8178-d4098580df44",
+            "scryfallOracleId": "318304f5-0929-4cd3-97e6-08ac1ac48aa6",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5947,
+            "text": "Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "4a19343c-6bd6-5a19-a5b1-32c8962b584c"
+        },
+        {
+            "artist": "Brian Horton",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 239,
+            "flavorText": "\"Is it worse to walk while dead, or to be buried alive? I have witnessed both.\" —Crovax",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Lebendig begraben",
+                    "text": "Durchsuche Deine Bibliothek nach bis zu drei Kreaturenkarten und lege sie auf Deinen Friedhof. Mische Deine Bibliothek danach neu.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Entierro en vida"
+                },
+                {
+                    "language": "French",
+                    "name": "Enterré vivant"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Sepolto Vivo"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "生き埋め"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Enterrado Vivo"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{B}",
+            "mcmId": 8573,
+            "mcmMetaId": 750,
+            "mtgoFoilId": 9386,
+            "mtgoId": 9385,
+            "multiverseId": 4451,
+            "name": "Buried Alive",
+            "number": "63",
+            "originalText": "Search your library for up to three creature cards and put them into your graveyard. Shuffle your library afterwards.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.2
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.95
+                },
+                "paper": {
+                    "2019-11-30": 1.84
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "CM2",
+                "CMD",
+                "ODY",
+                "PD3",
+                "TD0",
+                "UMA",
+                "WC03",
+                "WTH"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/af352d84f4b280b9",
+                "tcgplayer": "https://mtgjson.com/links/741e92be1f58cf62"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "You can look in your library and then choose to find any number from zero to three creatures after you look at it."
+                }
+            ],
+            "scryfallId": "56b92eb5-72b0-46b4-8b16-8a7a7ac80f56",
+            "scryfallIllustrationId": "8977e697-c32f-4ec2-beb9-87c0ca001d53",
+            "scryfallOracleId": "8203c621-a1a0-4865-8c9a-0d4064c86107",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5998,
+            "text": "Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "64c44628-8e23-5cf7-ae58-006332265f44"
+        },
+        {
+            "artist": "Donato Giancola",
+            "borderColor": "black",
+            "colorIdentity": [],
+            "colors": [],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 14394,
+            "flavorText": "Every line holds a tale, and between lie a thousand more.",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Zauberbuch der Thran",
+                    "text": "5, {T}: Zeige die obersten drei Karten Deiner Bibliothek einem Gegner Deiner Wahl. Begrabe eine dieser Karten, die dieser Gegner auswählt. Ziehe die übrigen Karten.",
+                    "type": "Artefakt"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Volumen de Thran"
+                },
+                {
+                    "language": "French",
+                    "name": "Grimoire de Thran"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Tomo di Thran"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "スランの秘本"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Livro de Thran"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReserved": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{4}",
+            "mcmId": 8728,
+            "mcmMetaId": 5968,
+            "mtgoFoilId": 9262,
+            "mtgoId": 9261,
+            "multiverseId": 4443,
+            "name": "Thran Tome",
+            "number": "160",
+            "originalText": "o5, ocT: Reveal the top three cards of your library to target opponent. Bury one of those cards of that opponent's choice. Draw the remaining cards.",
+            "originalType": "Artifact",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.03
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.24
+                },
+                "paper": {
+                    "2019-11-30": 0.5
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "WTH"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/55789ace9c9196ae",
+                "tcgplayer": "https://mtgjson.com/links/105b1d1853beed43"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2006-10-15",
+                    "text": "It does not target the cards, but it targets the opponent. If you can’t target an opponent, you can’t activate this ability."
+                },
+                {
+                    "date": "2007-05-01",
+                    "text": "After the opponent chooses which card to put into your graveyard, you draw two cards regardless of how many were actually revealed or how many you have left in your library."
+                }
+            ],
+            "scryfallId": "63db7360-fe6e-430f-bfee-a2f80bcb6fec",
+            "scryfallIllustrationId": "d05e58dc-867c-4534-8316-95a424074434",
+            "scryfallOracleId": "78d2a3fd-864c-49f3-b531-c71dc3b35977",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 6113,
+            "text": "{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.",
+            "type": "Artifact",
+            "types": [
+                "Artifact"
+            ],
+            "uuid": "439b2c8c-edc8-5e0b-96b5-dfc194debe12"
+        }
+    ]
 }
