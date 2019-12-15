@@ -2,6 +2,8 @@ function getlength(number) {
     return number.toString().length;
 }
 
+// scryfall card object url
+// https://api.scryfall.com/cards/be77edac-9a8b-4b7f-a859-27df76b10aa6
 
 
 let json = require('./_scryings.json');
