@@ -4,6 +4,7 @@ function getlength(number) {
 
 // scryfall card object url
 // https://api.scryfall.com/cards/be77edac-9a8b-4b7f-a859-27df76b10aa6
+// need function to download all images when all cards are spoiled
 
 
 let json = require('./_scryings.json');
