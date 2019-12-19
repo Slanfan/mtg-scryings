@@ -1,5 +1,4 @@
 ![Scryings](https://1.bp.blogspot.com/-cHbU0_OcWYo/Xb84cfuGavI/AAAAAAAAUaA/Xsudszv9Wc46YLDBnbfTFK7LA3DVMC_7gCLcBGAsYHQ/s320/scryings.png)
-# MTG Scryings
 
 *In the darkest libraries of Tolaria, a twisted mage quest the palantir for stories of Dominian magic. The visions create rifts in time and space, revealing empires of the past and future, planes long forgotten, and the Dominian Ice Age alongside the lush landscapes of Jamuraa a millennia later. A wanderlust to this reality can only be quenched by **Scryings**.*
 
