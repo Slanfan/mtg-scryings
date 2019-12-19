@@ -13,4 +13,5 @@ Magic the Gathering
 * Mirage
 * Visions
 * Weatherlight
+
 **Legality:** Occasional and at organizers' discretion; e.g. at n00bcon 12
