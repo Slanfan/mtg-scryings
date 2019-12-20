@@ -21,3 +21,15 @@ json.cards.forEach(card => {
     console.log(preCounter + ": " + card.name);
     counter++;
 });
+
+console.log("===================================");
+
+json.prospects.forEach(card => {
+
+    let preCounter = '';
+    if (getlength(counter) === 2) { preCounter = '0' + counter }
+    else if (getlength(counter) === 1) { preCounter = '00' + counter }
+    else { preCounter = counter }
+    console.log(preCounter + ": " + card.name);
+    counter++;
+});

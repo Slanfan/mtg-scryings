@@ -5400,6 +5400,2634 @@
                 "Enchantment"
             ],
             "uuid": "926dd5e9-4216-5404-a99a-2bf88f931b9d"
+        },
+        {
+            "artist": "Brian Horton",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 239,
+            "flavorText": "\"Is it worse to walk while dead, or to be buried alive? I have witnessed both.\" —Crovax",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Lebendig begraben",
+                    "text": "Durchsuche Deine Bibliothek nach bis zu drei Kreaturenkarten und lege sie auf Deinen Friedhof. Mische Deine Bibliothek danach neu.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Entierro en vida"
+                },
+                {
+                    "language": "French",
+                    "name": "Enterré vivant"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Sepolto Vivo"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "生き埋め"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Enterrado Vivo"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{B}",
+            "mcmId": 8573,
+            "mcmMetaId": 750,
+            "mtgoFoilId": 9386,
+            "mtgoId": 9385,
+            "multiverseId": 4451,
+            "name": "Buried Alive",
+            "number": "63",
+            "originalText": "Search your library for up to three creature cards and put them into your graveyard. Shuffle your library afterwards.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.2
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.95
+                },
+                "paper": {
+                    "2019-11-30": 1.84
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "CM2",
+                "CMD",
+                "ODY",
+                "PD3",
+                "TD0",
+                "UMA",
+                "WC03",
+                "WTH"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/af352d84f4b280b9",
+                "tcgplayer": "https://mtgjson.com/links/741e92be1f58cf62"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "You can look in your library and then choose to find any number from zero to three creatures after you look at it."
+                }
+            ],
+            "scryfallId": "56b92eb5-72b0-46b4-8b16-8a7a7ac80f56",
+            "scryfallIllustrationId": "8977e697-c32f-4ec2-beb9-87c0ca001d53",
+            "scryfallOracleId": "8203c621-a1a0-4865-8c9a-0d4064c86107",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5998,
+            "text": "Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "64c44628-8e23-5cf7-ae58-006332265f44"
+        },
+        {
+            "artist": "Mike Kimble",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 12394,
+            "flavorText": "There are medicines for all afflictions but idleness. —Suq'Ata saying",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Benommenheit",
+                    "text": "Ein Gegner Deiner Wahl muß eine zufällig gezogene Karte aus seiner Hand abwerfen und wählt danach eine Karte aus seiner Hand und wirft diese ebenfalls ab.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Estupor"
+                },
+                {
+                    "language": "French",
+                    "name": "Stupeur"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Torpore"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "呆然"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Estupor"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{B}",
+            "mcmId": 8096,
+            "mcmMetaId": 5678,
+            "mtgoFoilId": 7336,
+            "mtgoId": 7335,
+            "multiverseId": 3316,
+            "name": "Stupor",
+            "number": "147",
+            "originalText": "Target opponent discards a card at random, then chooses and discards a card.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.32
+                },
+                "paper": {
+                    "2019-11-30": 0.3
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "MIR",
+                "PAL00",
+                "PRM",
+                "TSB",
+                "WC99"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/6706dec5b3bf4c3f",
+                "tcgplayer": "https://mtgjson.com/links/9a7bf93d67da1284"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "0fed2498-20ce-48ad-a56e-2c7e297c0c66",
+            "scryfallIllustrationId": "11e9d39a-342d-4a08-9495-395de5f36fcb",
+            "scryfallOracleId": "c19e3560-d304-4d91-aa2a-463d7dbb35bb",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5245,
+            "text": "Target opponent discards a card at random, then discards a card.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "d7e9dd5b-3cd7-51e1-8b23-a6e803d52c36"
+        },
+        {
+            "artist": "Ron Spencer",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 12145,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Aschfahler Ghoul",
+                    "text": "Der Aschfahle Ghoul kann bereits in dem Zug angreifen, in dem er ins Spiel kommt.\n{B}: Bringe den Aschfahlen Ghoul wieder zurück ins Spiel unter Deine Kontrolle. Benutze diese Eigenschaft nur am Ende Deiner Versorgungsphase, und nur, wenn mindestens drei Kreaturen über den Aschfahlen Ghoul auf dem Friedhof liegen.",
+                    "type": "Beschwörung eines Ghouls"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Gul ceniciento"
+                },
+                {
+                    "language": "French",
+                    "name": "Goule cendreuse"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Ghoul delle Ceneri"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Carniçal Cinéreo"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{B}",
+            "mcmId": 6214,
+            "mcmMetaId": 312,
+            "mtgoId": 24393,
+            "multiverseId": 2438,
+            "name": "Ashen Ghoul",
+            "number": "114",
+            "originalText": "Ashen Ghoul can attack the turn it comes into play.\nooB Return Ashen Ghoul to play under your control. Use this ability only at the end of your upkeep and only if Ashen Ghoul is in your graveyard with at least three creature cards above it.",
+            "originalType": "Summon - Ghoul",
+            "power": "3",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.2
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "CST",
+                "ICE",
+                "ME2"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/09a6319d8bb6ca6b",
+                "tcgplayer": "https://mtgjson.com/links/eabee6aaeeceb344"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2008-10-01",
+                    "text": "A card is “above” another card in your graveyard if it was put into that graveyard later."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "Players may not rearrange the cards in their graveyards."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "The last thing that happens to a resolving instant or sorcery spell is that it’s put into its owner’s graveyard. Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "Say you’re the owner of both a permanent and an Aura that’s attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma’s Vengeance, for example), you decide the order they’re put into your graveyard. If just the enchanted permanent is destroyed, it’s put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it."
+                }
+            ],
+            "scryfallId": "6bb83301-5662-4628-b536-6a3ee0296f2e",
+            "scryfallIllustrationId": "2ff944f5-50ff-4a6c-90d1-9353e986a7c7",
+            "scryfallOracleId": "46fbcbdf-73d0-4fa2-8db7-3b19bfc7ac22",
+            "subtypes": [
+                "Zombie"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4591,
+            "text": "Haste\n{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.",
+            "toughness": "1",
+            "type": "Creature — Zombie",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "d055fcfa-56ad-57a2-839a-45ce13157959"
+        },
+        {
+            "artist": "Donato Giancola",
+            "borderColor": "black",
+            "colorIdentity": [],
+            "colors": [],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 14394,
+            "flavorText": "Every line holds a tale, and between lie a thousand more.",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Zauberbuch der Thran",
+                    "text": "5, {T}: Zeige die obersten drei Karten Deiner Bibliothek einem Gegner Deiner Wahl. Begrabe eine dieser Karten, die dieser Gegner auswählt. Ziehe die übrigen Karten.",
+                    "type": "Artefakt"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Volumen de Thran"
+                },
+                {
+                    "language": "French",
+                    "name": "Grimoire de Thran"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Tomo di Thran"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "スランの秘本"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Livro de Thran"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "isReserved": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{4}",
+            "mcmId": 8728,
+            "mcmMetaId": 5968,
+            "mtgoFoilId": 9262,
+            "mtgoId": 9261,
+            "multiverseId": 4443,
+            "name": "Thran Tome",
+            "number": "160",
+            "originalText": "o5, ocT: Reveal the top three cards of your library to target opponent. Bury one of those cards of that opponent's choice. Draw the remaining cards.",
+            "originalType": "Artifact",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.03
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.24
+                },
+                "paper": {
+                    "2019-11-30": 0.5
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "WTH"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/55789ace9c9196ae",
+                "tcgplayer": "https://mtgjson.com/links/105b1d1853beed43"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2006-10-15",
+                    "text": "It does not target the cards, but it targets the opponent. If you can’t target an opponent, you can’t activate this ability."
+                },
+                {
+                    "date": "2007-05-01",
+                    "text": "After the opponent chooses which card to put into your graveyard, you draw two cards regardless of how many were actually revealed or how many you have left in your library."
+                }
+            ],
+            "scryfallId": "63db7360-fe6e-430f-bfee-a2f80bcb6fec",
+            "scryfallIllustrationId": "d05e58dc-867c-4534-8316-95a424074434",
+            "scryfallOracleId": "78d2a3fd-864c-49f3-b531-c71dc3b35977",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 6113,
+            "text": "{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.",
+            "type": "Artifact",
+            "types": [
+                "Artifact"
+            ],
+            "uuid": "439b2c8c-edc8-5e0b-96b5-dfc194debe12"
+        },
+        {
+            "artist": "Anson Maddocks",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 12095,
+            "flavorText": "\"Only a necromancer would create such a foul form of divination.\" —Gerda Äagesdotter, Archmage of the Unseen",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Knochenorakel",
+                    "text": "Wenn die verzauberte Kreatur auf dem Friedhof landet, ziehe drei Karten. Wähle eine dieser Karten und wirf sie ab.",
+                    "type": "Verzaubere Kreatur"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Ceremonia de huesos"
+                },
+                {
+                    "language": "French",
+                    "name": "Ostéomancie"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Oracolo delle Ossa"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Osteomancia"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{B}",
+            "mcmId": 7854,
+            "mcmMetaId": 840,
+            "mtgoId": 24489,
+            "multiverseId": 3067,
+            "name": "Casting of Bones",
+            "number": "44b",
+            "originalText": "If enchanted creature is put into the graveyard, draw three cards. Choose and discard one of those cards.",
+            "originalType": "Enchant Creature",
+            "prices": {
+                "mtgo": {
+                    "2019-10-06": 0.76
+                },
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.11
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL",
+                "CST"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/fafba682cedcc36a",
+                "tcgplayer": "https://mtgjson.com/links/0ba896169af5b24d"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "88442ddf-c12b-4a25-804d-29fef5a90a0c",
+            "scryfallIllustrationId": "27f973ab-a514-4fa1-a59b-7b169ed66849",
+            "scryfallOracleId": "5a747256-4215-4334-98ab-0c2e4ed92e47",
+            "subtypes": [
+                "Aura"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4118,
+            "text": "Enchant creature\nWhen enchanted creature dies, draw three cards, then discard one of them.",
+            "type": "Enchantment — Aura",
+            "types": [
+                "Enchantment"
+            ],
+            "uuid": "5730e629-a7bb-5734-b7d2-637c675c3bef",
+            "variations": [
+                "b32e3226-6354-5b65-a4be-f3d2c18bdb97"
+            ]
+        },
+        {
+            "artist": "Colin MacNeil",
+            "borderColor": "black",
+            "colorIdentity": [],
+            "colors": [],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 17800,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Chimärenkugel",
+                    "text": "{2}: Die Chimärenkugel ist bis zum Ende des Zuges eine fliegende 2/1 Artefaktkreatur.\n{2}: Die Chimärenkugel ist bis zum Ende des Zuges eine nichtfliegende 3/2 Artefaktkreatur.",
+                    "type": "Artefakt"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Esfera quimérica"
+                },
+                {
+                    "language": "French",
+                    "name": "Sphère-chimère"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Sfera Chimerica"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "キマイラ球"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Esfera Quimérica"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}",
+            "mcmId": 8716,
+            "mcmMetaId": 959,
+            "mtgoFoilId": 9366,
+            "mtgoId": 9365,
+            "multiverseId": 4431,
+            "name": "Chimeric Sphere",
+            "number": "148",
+            "originalText": "o2: Until end of turn, Chimeric Sphere is a 2/1 artifact creature with flying.\no2: Until end of turn, Chimeric Sphere is a 3/2 artifact creature without flying.",
+            "originalType": "Artifact",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.03
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.03
+                },
+                "paper": {
+                    "2019-11-30": 0.1
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "WTH"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/1159d8056316c9b2",
+                "tcgplayer": "https://mtgjson.com/links/f4e99211184a248a"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2008-04-01",
+                    "text": "If the first ability is activated and resolves, then the second ability is activated and resolves, Chimeric Sphere will be a 3/2 creature. It won’t have flying."
+                },
+                {
+                    "date": "2008-08-01",
+                    "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn’t matter how long the permanent has been a creature."
+                }
+            ],
+            "scryfallId": "cc96857c-b38e-4614-9838-cacd3700e3ee",
+            "scryfallIllustrationId": "f9cfc5b9-d560-4bb6-8f1c-07871f5b4212",
+            "scryfallOracleId": "b4aae26a-44a4-4ef0-9a1d-14a07a0865a3",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 6001,
+            "text": "{2}: Until end of turn, Chimeric Sphere becomes a 2/1 Construct artifact creature with flying.\n{2}: Until end of turn, Chimeric Sphere becomes a 3/2 Construct artifact creature and loses flying.",
+            "type": "Artifact",
+            "types": [
+                "Artifact"
+            ],
+            "uuid": "c2206644-b7c8-5e63-8747-75ab1f217e0c"
+        },
+        {
+            "artist": "Drew Tucker",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 9583,
+            "flavorText": "\"Will not the mountains quake and hills melt at the coming of the darkness? Share this vision with your enemies, Lim-Dûl, and they shall wither.\" —Leshrac, Walker of Night",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Dunkle Verbannung",
+                    "text": "Begrabe eine nicht-schwarze Zielkreatur.",
+                    "type": "Spontanzauber"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Destierro sombrío"
+                },
+                {
+                    "language": "French",
+                    "name": "Obscur bannissement"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Esilio Oscuro"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Banimento Sombrio"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{B}",
+            "mcmId": 6219,
+            "mcmMetaId": 1289,
+            "mtgoId": 24403,
+            "multiverseId": 2443,
+            "name": "Dark Banishing",
+            "number": "119",
+            "originalText": "Bury target non-black creature.",
+            "originalType": "Instant",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.07
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "7ED",
+                "8ED",
+                "9ED",
+                "CST",
+                "DDC",
+                "DKM",
+                "DVD",
+                "ICE",
+                "ME2",
+                "MIR",
+                "PSAL",
+                "PTC",
+                "TMP",
+                "TPR",
+                "WC03"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/3bf6bb2f082d3649",
+                "tcgplayer": "https://mtgjson.com/links/5dfe43a321c6834c"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "f7dc2716-ed62-4797-ad2b-227eca5408d0",
+            "scryfallIllustrationId": "8fe351fd-4884-43f0-a7ec-156f8aa69803",
+            "scryfallOracleId": "0df450be-9bd2-45be-ae59-fa8d19f6a391",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4640,
+            "text": "Destroy target nonblack creature. It can't be regenerated.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "ecdc3f2d-6470-5c85-a99b-2271422b7374"
+        },
+        {
+            "artist": "Greg Spalenka",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 1.0,
+            "edhrecRank": 7394,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Smaragdamulett",
+                    "text": "Wähle eines aus: Enttappe eine bleibende Karte Deiner Wahl; zerstöre eine globale Verzauberung Deiner Wahl; oder eine Kreatur Deiner Wahl verliert ihre Flugfähigkeit bis zum Ende des Zuges.",
+                    "type": "Spontanzauber"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Amuleto de esmeralda"
+                },
+                {
+                    "language": "French",
+                    "name": "Charme d'émeraude"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Monile di Smeraldo"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "エメラルドの魔除け"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Medalhão de Esmeralda"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{G}",
+            "mcmId": 8457,
+            "mcmMetaId": 1782,
+            "mtgoFoilId": 7538,
+            "mtgoId": 7537,
+            "multiverseId": 3663,
+            "name": "Emerald Charm",
+            "number": "106",
+            "originalText": "Choose one Untap target permanent; or destroy target global enchantment; or target creature loses flying until end of turn.",
+            "originalType": "Instant",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.02
+                },
+                "paper": {
+                    "2019-11-30": 0.14
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "VIS",
+                "WC97",
+                "WC98"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/d7c2f576b6cd3a30",
+                "tcgplayer": "https://mtgjson.com/links/ff6745c8baae9a2a"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "e9c9199b-61b3-4794-878b-f065058f50f3",
+            "scryfallIllustrationId": "521e0384-091c-4658-a750-117e9517a96d",
+            "scryfallOracleId": "904b3db5-70bc-4d49-9887-f504aff8666f",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5834,
+            "text": "Choose one —\n• Untap target permanent.\n• Destroy target non-Aura enchantment.\n• Target creature loses flying until end of turn.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "4d6d057a-4e8c-5220-b9a8-90d9a50be59a"
+        },
+        {
+            "artist": "Harold McNeill",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 1.0,
+            "edhrecRank": 15270,
+            "flavorText": "In ashes are the gems of history.",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Vergessene Geheimnisse",
+                    "text": "Ein Gegner Deiner Wahl wählt eine Karte aus Deinem Friedhof. Du kannst {G} bezahlen, damit dieser Gegner eine andere Karte wählt, die er noch nicht vorher gewählt hatte. Nimm die letzte Karte, die Dein Gegner wählt, in Deine Hand.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Sabiduría perdida"
+                },
+                {
+                    "language": "French",
+                    "name": "Sapience oubliée"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Sapere Dimenticato"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Conhecimento Esquecido"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{G}",
+            "mcmId": 6337,
+            "mcmMetaId": 2185,
+            "multiverseId": 2561,
+            "name": "Forgotten Lore",
+            "number": "237",
+            "originalText": "Target opponent chooses target card from your graveyard. You may pay oG to have that opponent choose a new target that he or she has not already chosen. Put the last target card in your hand.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.14
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ICE",
+                "ME2"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/c3a7f1a8122d7ee7",
+                "tcgplayer": "https://mtgjson.com/links/c3938f1bf0318a52"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2008-10-01",
+                    "text": "You target an opponent when you cast Forgotten Lore. The opponent chooses a card in your graveyard as Forgotten Lore resolves. After that choice is made, you’re given the option to pay {G}. If you do, the targeted opponent must choose a different card, if there is one. (If there isn’t one, this part is skipped.) Then you’re given the option to pay {G} again. As long as you keep paying {G}, the process continues. As soon as you decline to pay {G}, the last card that was chosen by the opponent is put into your hand."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "The spell has no knowledge of cards chosen for other spells named Forgotten Lore."
+                }
+            ],
+            "scryfallId": "fb01dd39-a957-4c1a-86cf-f31a699a154a",
+            "scryfallIllustrationId": "91e9f944-f8bf-4c18-903a-73020dd24959",
+            "scryfallOracleId": "ca9f538d-4191-448a-870d-f645b7c37c1b",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4682,
+            "text": "Target opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "9866d989-cb23-5fc1-b225-dfc4be324b64"
+        },
+        {
+            "artist": "Greg Spalenka",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 1.0,
+            "edhrecRank": 10729,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Amulett des Untergangs",
+                    "text": "Wähle eines aus: Ein Zielspieler wählt eine Karte aus seiner Hand und wirft diese ab; eine Kreatur Deiner Wahl erhält +2/-1 bis zum Ende des Zuges; oder eine Kreatur Deiner Wahl erhält Sumpftarnung bis zum Ende des Zuges.",
+                    "type": "Spontanzauber"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Amuleto funerario"
+                },
+                {
+                    "language": "French",
+                    "name": "Charme funéraire"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Monile Funebre"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "葬送の魔除け"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Medalhão do Funeral"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{B}",
+            "mcmId": 8412,
+            "mcmMetaId": 2230,
+            "mtgoFoilId": 7564,
+            "mtgoId": 7563,
+            "multiverseId": 3618,
+            "name": "Funeral Charm",
+            "number": "61",
+            "originalText": "Choose one Target player chooses and discards a card; or target creature gets +2/-1 until end of turn; or target creature gains swampwalk until end of turn. (If defending player controls any swamps, that creature is unblockable.)",
+            "originalType": "Instant",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.05
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.63
+                },
+                "paper": {
+                    "2019-11-30": 0.47
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "TSB",
+                "VIS"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/ee039eea02f3e716",
+                "tcgplayer": "https://mtgjson.com/links/d8836aa281d013ca"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "e79d7240-2014-4838-bace-80666192a73e",
+            "scryfallIllustrationId": "69c4a90d-3a9c-486a-899e-217b9bfd29e2",
+            "scryfallOracleId": "8866272d-89cb-478c-82ae-20e1d510eab7",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5847,
+            "text": "Choose one —\n• Target player discards a card.\n• Target creature gets +2/-1 until end of turn.\n• Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "22a64cf1-8e57-5ba5-a2fe-0c4e71de6161"
+        },
+        {
+            "artist": "Robert Bliss",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 17180,
+            "flavorText": "They talk a good fight.",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Elite-Infanterie der Goblins",
+                    "text": "Wenn die Elite-Infanterie der Goblins blockt oder geblockt wird, erhält sie -1/-1 bis zum Ende des Zuges.",
+                    "type": "Beschwörung von Goblins"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Soldados de élite trasgos"
+                },
+                {
+                    "language": "French",
+                    "name": "Infanterie gobeline d'élite"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Fanteria Scelta dei Goblin"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "ゴブリン精鋭歩兵部隊"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Infantaria de Elite dos Goblins"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{R}",
+            "mcmId": 8228,
+            "mcmMetaId": 2396,
+            "mtgoFoilId": 7010,
+            "mtgoId": 7009,
+            "multiverseId": 3448,
+            "name": "Goblin Elite Infantry",
+            "number": "177",
+            "originalText": "If Goblin Elite Infantry blocks or is blocked, it gets -1/-1 until end of turn.",
+            "originalType": "Summon - Goblins",
+            "power": "2",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.01
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.02
+                },
+                "paper": {
+                    "2019-11-30": 0.05
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "10E",
+                "6ED",
+                "7ED",
+                "MIR"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/e0d9ffd0399bdebe",
+                "tcgplayer": "https://mtgjson.com/links/cc55b4c2e7e6d5ef"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "12b9c6b8-9f87-41f1-9e81-b5995e3ed6b7",
+            "scryfallIllustrationId": "bcac1204-4279-41bb-b193-3f59caf1817f",
+            "scryfallOracleId": "a6a8861c-b6fe-45a6-86e4-9160c36362ff",
+            "subtypes": [
+                "Goblin",
+                "Warrior"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 5082,
+            "text": "Whenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.",
+            "toughness": "2",
+            "type": "Creature — Goblin Warrior",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "127f05b7-f1b6-595f-8cb4-3f9e256bc4d1"
+        },
+        {
+            "artist": "Franz Vohwinkel",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 1.0,
+            "edhrecRank": 10333,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Goblinvandale",
+                    "text": "{R}: Zerstöre ein Artefakt Deiner Wahl, welches der verteidigende Spieler kontrolliert. Der Goblinvandale fügt in diesem Zug keinen Kampfschaden zu. Benutze diese Fähigkeit nur, wenn der Goblinvandale angreift und nicht geblockt wird und nur einmal pro Zug.",
+                    "type": "Beschwörung eines Goblins"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Vándalo trasgo"
+                },
+                {
+                    "language": "French",
+                    "name": "Vandale gobelin"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Vandalo Goblin"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "蛮行ゴブリン"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Vândalo Goblin"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{R}",
+            "mcmId": 8673,
+            "mcmMetaId": 2453,
+            "mtgoFoilId": 9188,
+            "mtgoId": 9187,
+            "multiverseId": 4551,
+            "name": "Goblin Vandal",
+            "number": "105",
+            "originalText": "ooR Destroy target artifact defending player controls. Goblin Vandal deals no combat damage this turn. Use this ability only if Goblin Vandal is attacking and unblocked and only once each turn.",
+            "originalType": "Summon - Goblin",
+            "power": "1",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.01
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 3.31
+                },
+                "paper": {
+                    "2019-11-30": 0.08
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ATH",
+                "PRM",
+                "WC98",
+                "WTH"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/70c1a54d0938f070",
+                "tcgplayer": "https://mtgjson.com/links/ccd5e4c20eae9e4a"
+            },
+            "rarity": "common",
+            "rulings": [
+                {
+                    "date": "2008-04-01",
+                    "text": "If the defending player controls no artifacts that you can target, the ability doesn’t go on the stack and you can’t pay {R}."
+                },
+                {
+                    "date": "2013-04-15",
+                    "text": "An ability that triggers when something “attacks and isn’t blocked” triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step."
+                }
+            ],
+            "scryfallId": "b7ad3b81-f706-4b33-b1ec-7600182a5232",
+            "scryfallIllustrationId": "814b5c18-ba0d-4ad6-8e74-0c03fa11566d",
+            "scryfallOracleId": "50bebbb9-01b7-4eb6-8efd-307c9bcd2517",
+            "subtypes": [
+                "Goblin",
+                "Rogue"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 6040,
+            "text": "Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.",
+            "toughness": "1",
+            "type": "Creature — Goblin Rogue",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "60d5c554-6cc6-5f5a-8e2c-698a63ede61b"
+        },
+        {
+            "artist": "Jeff A. Menges",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [],
+            "convertedManaCost": 0.0,
+            "edhrecRank": 4380,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Kjeldoranischer Außenposten",
+                    "text": "Opfere eine Ebene, wenn der Kjeldoranische Außenposten ins Spiel kommt, oder begrabe den Kjeldoranischen Außenposten.\n{T}: Erhöhe Deinen Manavorrat um {W}.\n{1}{W}, {T}: Bringe einen Soldaten-Spielstein ins Spiel. Behandle diesen Spielstein wie eine 1/1 weiße Kreatur.",
+                    "type": "Land"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Destacamento kjeldorano"
+                },
+                {
+                    "language": "French",
+                    "name": "Avant-poste kjeldorien"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Avamposto di Kjeldor"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Posto Avançado Kjeldorano"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isReserved": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "mcmId": 8036,
+            "mcmMetaId": 3098,
+            "multiverseId": 3233,
+            "name": "Kjeldoran Outpost",
+            "number": "139",
+            "originalText": "When Kjeldoran Outpost comes into play, sacrifice a plains or bury Kjeldoran Outpost.\nocT: Add oW to your mana pool.\no1oW, ocT: Put a Soldier token into play. Treat this token as a 1/1 white creature.",
+            "originalType": "Land",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 5.84
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL",
+                "ME2",
+                "PRM",
+                "VMA",
+                "WC97"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/1ef7ebbdc358b70f",
+                "tcgplayer": "https://mtgjson.com/links/fadb90c1c496f050"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "You have to sacrifice a plains before this card is put onto the battlefield. You have to do this no matter how it is put onto the battlefield."
+                }
+            ],
+            "scryfallId": "e0769fc7-50b5-4b49-8aff-af04536288fb",
+            "scryfallIllustrationId": "d7bf10bc-82b4-4931-b19c-d534753b40e8",
+            "scryfallOracleId": "8b370db5-dfb9-4ea0-9017-bae3e767b041",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4178,
+            "text": "If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {W}.\n{1}{W}, {T}: Create a 1/1 white Soldier creature token.",
+            "type": "Land",
+            "types": [
+                "Land"
+            ],
+            "uuid": "232613bf-80a6-56e0-a278-877accddeb1e"
+        },
+        {
+            "artist": "Terese Nielsen",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 1414,
+            "flavorText": ". . . but the price of Mangara's freedom was Asmira's life.",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Natürliche Ordnung",
+                    "text": "Opfere eine grüne Kreatur: Durchsuche Deine Bibliothek nach einer grünen Kreaturenkarte und bringe diese direkt ins Spiel, als ob sie gerade gesprochen worden wäre. Mische Deine Bibliothek danach neu.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Orden natural"
+                },
+                {
+                    "language": "French",
+                    "name": "Ordre naturel"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Ordine Naturale"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "自然の秩序"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Ordem Natural"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Banned",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{G}{G}",
+            "mcmId": 8465,
+            "mcmMetaId": 3835,
+            "mtgoFoilId": 7648,
+            "mtgoId": 7647,
+            "multiverseId": 3671,
+            "name": "Natural Order",
+            "number": "114",
+            "originalText": "Sacrifice a green creature: Search your library for a green creature card and put it into play as though it were just played. Shuffle your library afterwards.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 1.08
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 1.94
+                },
+                "paper": {
+                    "2019-11-30": 16.17
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "EMA",
+                "G10",
+                "POR",
+                "PRM",
+                "VIS"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/03046c38d237d1a9",
+                "tcgplayer": "https://mtgjson.com/links/6114506a772204f7"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2016-06-08",
+                    "text": "Sacrificing a green creature is part of Natural Order’s cost. You can’t sacrifice more creatures to search for more creature cards, and you can’t cast Natural Order at all if you control no green creatures."
+                },
+                {
+                    "date": "2016-06-08",
+                    "text": "Players can respond to this spell only after it’s been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to stop you from casting this spell or to make you sacrifice a different one."
+                }
+            ],
+            "scryfallId": "0845f0b0-9413-4ddd-861d-9607636bebc6",
+            "scryfallIllustrationId": "9329945e-f4a6-4447-b381-f27eed291f04",
+            "scryfallOracleId": "8c1fe337-375a-4add-93b6-0ac39ed72b4f",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5889,
+            "text": "As an additional cost to cast this spell, sacrifice a green creature.\nSearch your library for a green creature card and put it onto the battlefield. Then shuffle your library.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "9f531f58-e2d2-57f6-8182-c23ff87075bd"
+        },
+        {
+            "artist": "DiTerlizzi",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 6171,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Edler Wohltäter",
+                    "text": "Wenn der Edle Wohltäter aus dem Spiel auf einen Friedhof landet, kann jeder Spieler seine Bibliothek nach einer beliebigen Karte durchsuchen und diese Karte auf seine Hand nehmen. Jeder Spieler, der eine Karte gesucht hat, mischt seine Bibliothek danach neu.",
+                    "type": "Beschwörung eines Klerikers"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Noble benefactor"
+                },
+                {
+                    "language": "French",
+                    "name": "Noble bienfaiteur"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Benefattore Nobile"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "気前のいい後援者"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Nobre Benfeitor"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{U}",
+            "mcmId": 8612,
+            "mcmMetaId": 3911,
+            "mtgoFoilId": 9436,
+            "mtgoId": 9435,
+            "multiverseId": 4490,
+            "name": "Noble Benefactor",
+            "number": "44",
+            "originalText": "If Noble Benefactor is put into any graveyard from play, each player may search his or her library for any one card and put that card into his or her hand. Each player who searches his or her library shuffles it afterwards.",
+            "originalType": "Summon - Cleric",
+            "power": "2",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.06
+                },
+                "paper": {
+                    "2019-11-30": 0.31
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "WTH"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/beabd6580f3d4bd5",
+                "tcgplayer": "https://mtgjson.com/links/c34091bdd840eb49"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2008-04-01",
+                    "text": "The player whose turn it is searches their library (or chooses not to), then each other player in turn order does the same. Then the player whose turn it is shuffles their library (if that player searched), then each other player in turn order does the same."
+                }
+            ],
+            "scryfallId": "bd221f30-1773-4e05-a40f-022a9306ef89",
+            "scryfallIllustrationId": "03990ef8-48a5-4352-b2aa-ecbd63cd6f9c",
+            "scryfallOracleId": "78c1d6fe-38e4-40c4-9252-87ff272247ad",
+            "subtypes": [
+                "Human",
+                "Cleric"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 6075,
+            "text": "When Noble Benefactor dies, each player may search their library for a card and put that card into their hand. Then each player who searched their library this way shuffles it.",
+            "toughness": "2",
+            "type": "Creature — Human Cleric",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "80de0909-a4e5-566a-9b35-6f4071c362c8"
+        },
+        {
+            "artist": "Bryon Wackwitz",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 13952,
+            "flavorText": "\"The powers of the corrupt will fade before the fury of the pure.\" —Bethan Leitbur, \"The Way\"",
+            "foreignData": [],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "oldschool": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{W}{W}",
+            "mcmId": 7565,
+            "mcmMetaId": 4020,
+            "mtgstocksId": 26923,
+            "multiverseId": 2000,
+            "name": "Order of Leitbur",
+            "number": "16b",
+            "originalText": "Protection from black\noWooW +1/+0 until end of turn\nooW First strike until end of turn",
+            "originalType": "Summon - Clerics",
+            "power": "2",
+            "prices": {
+                "paper": {
+                    "2019-06-16": 0.24,
+                    "2019-06-23": 0.23,
+                    "2019-06-30": 0.22,
+                    "2019-07-07": 0.22,
+                    "2019-07-14": 0.22,
+                    "2019-07-21": 0.23,
+                    "2019-07-28": 0.23,
+                    "2019-08-04": 0.23,
+                    "2019-08-11": 0.24,
+                    "2019-08-18": 0.23,
+                    "2019-08-25": 0.24,
+                    "2019-09-01": 0.24,
+                    "2019-09-08": 0.24
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "FEM",
+                "ME1",
+                "PTC"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/11732c7f8396dcf2",
+                "mtgstocks": "https://mtgjson.com/links/ffe35645945cee14",
+                "tcgplayer": "https://mtgjson.com/links/dd111d14a9edf4d8"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "fb537b5a-d725-420d-bc15-0d54ba23331c",
+            "scryfallIllustrationId": "3c49bb24-0170-4523-8df2-1bf96f6ff736",
+            "scryfallOracleId": "d8f5279f-c58e-4560-9c68-77d226a3c86c",
+            "subtypes": [
+                "Human",
+                "Cleric",
+                "Knight"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 18247,
+            "text": "Protection from black\n{W}: Order of Leitbur gains first strike until end of turn.\n{W}{W}: Order of Leitbur gets +1/+0 until end of turn.",
+            "toughness": "1",
+            "type": "Creature — Human Cleric Knight",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "76365362-e8c0-5181-bb5a-a3bd6289e190",
+            "variations": [
+                "01afa13f-f720-562c-9c8f-19b3e7e60536",
+                "7818afaf-d687-5b0f-9d09-46ba488a7fb9"
+            ]
+        },
+        {
+            "artist": "Christopher Rush",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 12292,
+            "flavorText": "\"There are intriguing similarities between the Order and Icatia's Leitbur religion, suggesting the two had a common origin.\" —Sarpadian Empires, vol. VI",
+            "foreignData": [],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "oldschool": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{B}{B}",
+            "mcmId": 7427,
+            "mcmMetaId": 4021,
+            "mtgstocksId": 26924,
+            "multiverseId": 1862,
+            "name": "Order of the Ebon Hand",
+            "number": "42b",
+            "originalText": "Protection from white\noBooB +1/+0 until end of turn\nooB First strike until end of turn",
+            "originalType": "Summon - Clerics",
+            "power": "2",
+            "prices": {
+                "paper": {
+                    "2019-06-16": 0.22,
+                    "2019-06-23": 0.22,
+                    "2019-06-30": 0.22,
+                    "2019-07-07": 0.21,
+                    "2019-07-14": 0.21,
+                    "2019-07-21": 0.22,
+                    "2019-07-28": 0.23,
+                    "2019-08-04": 0.23,
+                    "2019-08-11": 0.23,
+                    "2019-08-18": 0.23,
+                    "2019-08-25": 0.23,
+                    "2019-09-01": 0.23,
+                    "2019-09-08": 0.22
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "FEM",
+                "ME1",
+                "PTC"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/42013c7cae69e3a1",
+                "mtgstocks": "https://mtgjson.com/links/6906029a2ee7100c",
+                "tcgplayer": "https://mtgjson.com/links/c740a2816dd4dd19"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "60ffbb40-13c1-4d01-9421-95b2410d0d3b",
+            "scryfallIllustrationId": "def5e829-d365-43d5-8d61-07e00c6c0b6f",
+            "scryfallOracleId": "2f65f16f-c6c2-48f0-b556-63cf7d162000",
+            "subtypes": [
+                "Cleric",
+                "Knight"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 18249,
+            "text": "Protection from white\n{B}: Order of the Ebon Hand gains first strike until end of turn.\n{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.",
+            "toughness": "1",
+            "type": "Creature — Cleric Knight",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "506d4613-7d4b-55a6-b593-e40b123cdee9",
+            "variations": [
+                "29febcd9-da07-57db-98fc-2e5ef74898d5",
+                "6f8aea7a-0347-59de-a253-3a2d78be305d"
+            ]
+        },
+        {
+            "artist": "Robert Bliss",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 2663,
+            "flavorText": "For the first time in his life, Grakk felt a little warm and fuzzy inside.",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Pazifismus",
+                    "text": "Die verzauberte Kreatur kann nicht angreifen oder blocken.",
+                    "type": "Verzaubere Kreatur"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Pacifismo"
+                },
+                {
+                    "language": "French",
+                    "name": "Pacifisme"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Pacifismo"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "平和な心"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Pacifismo"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "brawl": "Legal",
+                "commander": "Legal",
+                "duel": "Legal",
+                "future": "Legal",
+                "historic": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "pioneer": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{W}",
+            "mcmId": 8287,
+            "mcmMetaId": 4060,
+            "mtgoFoilId": 7176,
+            "mtgoId": 7175,
+            "multiverseId": 3507,
+            "name": "Pacifism",
+            "number": "32",
+            "originalText": "Enchanted creature cannot attack or block.",
+            "originalType": "Enchant Creature",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.02
+                },
+                "paper": {
+                    "2019-11-30": 0.09
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "10E",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
+                "A25",
+                "ATH",
+                "BBD",
+                "BRB",
+                "DDC",
+                "DTK",
+                "DVD",
+                "EMA",
+                "M10",
+                "M11",
+                "M12",
+                "M13",
+                "M14",
+                "M20",
+                "MB1",
+                "MIR",
+                "ONS",
+                "PS11",
+                "PSAL",
+                "TMP",
+                "TPR",
+                "USG",
+                "WC04"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/1169550cac53364e",
+                "tcgplayer": "https://mtgjson.com/links/44898b43f6d5ea1c"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "c891df1b-bae6-4d6d-85ee-42901c149f98",
+            "scryfallIllustrationId": "258e9351-2108-4dbe-97a8-3eeb9c7b502a",
+            "scryfallOracleId": "5f5e0b10-c8cf-450c-bfd3-bcb0528ec330",
+            "subtypes": [
+                "Aura"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 5165,
+            "text": "Enchant creature\nEnchanted creature can't attack or block.",
+            "type": "Enchantment — Aura",
+            "types": [
+                "Enchantment"
+            ],
+            "uuid": "aa477d90-61a3-5f35-b542-82aa0128e42e"
+        },
+        {
+            "artist": "Douglas Shuler",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 1.0,
+            "flavorText": "\"It's not so easy anymore. Nothing grows in Kjeldor but seaweed.\" —Halvor Arensson, Kjeldoran Priest",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Königlicher Kräuterkundler",
+                    "text": "{2}: Entferne die oberste Karte Deiner Bibliothek aus dem Spiel, um 1 Lebenspunkt zu erhalten.",
+                    "type": "Beschwörung eines Klerikers"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Herborista real"
+                },
+                {
+                    "language": "French",
+                    "name": "Herborisateur royal"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Erborista Reale"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Herborista Real"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{W}",
+            "mcmId": 7999,
+            "mcmMetaId": 4812,
+            "multiverseId": 3212,
+            "name": "Royal Herbalist",
+            "number": "15b",
+            "originalText": "o2: Remove the top card of your library from the game to gain 1 life.",
+            "originalType": "Summon - Cleric",
+            "power": "1",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.1
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/beeed2b46c7c268c",
+                "tcgplayer": "https://mtgjson.com/links/36a02b1565e32306"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "6456ee12-7c09-434e-9028-613506ef7ff6",
+            "scryfallIllustrationId": "80357a66-7e76-49de-a6b4-4f8ebcd8c11d",
+            "scryfallOracleId": "b3baf498-3be7-4a22-8fed-806d8d8ac748",
+            "subtypes": [
+                "Human",
+                "Cleric"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4225,
+            "text": "{2}, Exile the top card of your library: You gain 1 life.",
+            "toughness": "1",
+            "type": "Creature — Human Cleric",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "d75bc64f-64b5-52ec-8685-ff3260ef4969",
+            "variations": [
+                "b16c9730-6ad1-5e02-880f-8bd2591e1b37"
+            ]
+        },
+        {
+            "artist": "Daniel Gelon",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 8.0,
+            "edhrecRank": 14087,
+            "flavorText": "\"Flourishing during the Ice Age, these Wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.\" —Kjeldor: Ice Civilization",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Schuppenwurm",
+                    "type": "Beschwörung eines Wurms"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Sierpe escamosa"
+                },
+                {
+                    "language": "French",
+                    "name": "Guivre écailleuse"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Wurm Squamato"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Serpente Terrestre Escamada"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{7}{G}",
+            "mcmId": 6362,
+            "mcmMetaId": 4936,
+            "multiverseId": 2586,
+            "name": "Scaled Wurm",
+            "number": "262",
+            "originalType": "Summon - Wurm",
+            "power": "7",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.12
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "5ED",
+                "6ED",
+                "9ED",
+                "BRB",
+                "BTD",
+                "CNS",
+                "ICE"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/b0787da2f82600fb",
+                "tcgplayer": "https://mtgjson.com/links/d53b91dfe01f21d9"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "499cd7fa-c86c-4a5f-b36d-8160e8a6af1f",
+            "scryfallIllustrationId": "3c72fa0a-65c3-4e9f-87e1-9b7f8cdbbef5",
+            "scryfallOracleId": "009a8e38-74d0-4b4a-b8ca-62c9f3183531",
+            "subtypes": [
+                "Wurm"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4863,
+            "toughness": "6",
+            "type": "Creature — Wurm",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "5ff3d4dc-6b84-5b8a-8ee1-adb3b46ac9eb"
+        },
+        {
+            "artist": "Susan Van Camp",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 14184,
+            "flavorText": "\"No one can catch what won't be caught.\" —Kakra, Sea Troll",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Meeresfee",
+                    "text": "Kann fliegen, Schutz vor rot",
+                    "type": "Beschwörung eines Feenwesens"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Hada marina"
+                },
+                {
+                    "language": "French",
+                    "name": "Farfadet marine"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Spiritello Marino"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Fada do Mar"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{U}",
+            "mcmId": 7760,
+            "mcmMetaId": 5000,
+            "multiverseId": 2957,
+            "name": "Sea Sprite",
+            "number": "38",
+            "originalText": "Flying, protection from red",
+            "originalType": "Summon - Faerie",
+            "power": "1",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.22
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "5ED",
+                "HML",
+                "ME1",
+                "PTC",
+                "WC98"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/ec253cb6969b9f1a",
+                "tcgplayer": "https://mtgjson.com/links/c2c49e738e037fa9"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "88fb001b-3afb-44f5-ab78-af2bf9a4e63a",
+            "scryfallIllustrationId": "e1491b93-a5d2-44e0-b865-064e494e4780",
+            "scryfallOracleId": "b318d94e-314f-4df8-a178-b5ddd756e1c4",
+            "subtypes": [
+                "Faerie"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4547,
+            "text": "Flying, protection from red",
+            "toughness": "1",
+            "type": "Creature — Faerie",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "705ef4e6-49f5-5892-997f-612cc920d506"
+        },
+        {
+            "artist": "Carol Heyer",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 16859,
+            "flavorText": "\"Our underground archives grow daily, as our excavators and sages alike dig to uncover hidden wonders.\" —Arcum Dagsson, Soldevi Machinist",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Soldevischer Weiser",
+                    "text": "{T}: Opfere zwei Länder, um drei Karten zu ziehen. Wähle eine dieser Karten und wirf sie ab.",
+                    "type": "Beschwörung eines Zauberers"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Sabio soldeví"
+                },
+                {
+                    "language": "French",
+                    "name": "Sage soldevi"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Saggio di Soldevi"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Sábio Soldeviano"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{U}",
+            "mcmId": 7903,
+            "mcmMetaId": 5369,
+            "multiverseId": 3116,
+            "name": "Soldevi Sage",
+            "number": "34b",
+            "originalText": "ocT: Sacrifice two lands to draw three cards. Choose and discard one of those cards.",
+            "originalType": "Summon - Wizard",
+            "power": "1",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.07
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "ALL"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/25750d5cc955e765",
+                "tcgplayer": "https://mtgjson.com/links/15811bd57b46d002"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "53dc5902-817c-4a85-a0b9-20555574fad1",
+            "scryfallIllustrationId": "06ce1ec4-1a36-4d33-83b2-dd6829ddf493",
+            "scryfallOracleId": "1f612df3-53b6-4317-9d63-1f903ee3f0c4",
+            "subtypes": [
+                "Human",
+                "Wizard"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4240,
+            "text": "{T}, Sacrifice two lands: Draw three cards, then discard one of them.",
+            "toughness": "1",
+            "type": "Creature — Human Wizard",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "8691b4c6-79d5-5fd9-bb5d-7af81cc7ad77",
+            "variations": [
+                "798e2527-c652-52a1-9cf7-08a1c6bd640d"
+            ]
+        },
+        {
+            "artist": "Eric Peterson",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 17963,
+            "flavorText": "Purraj sang slaughter and danced death.",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Lied des Blutes",
+                    "text": "Lege die obersten vier Karten Deiner Bibliothek auf Deinen Friedhof. Alle Kreaturen, die in diesem Zug angreifen, erhalten +1/+0 bis zum Ende des Zuges, für jede Kreaturenkarte, die auf diese Weise auf dem Friedhof landet.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Canción de la sangre"
+                },
+                {
+                    "language": "French",
+                    "name": "Chanson du Sang"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Canzone di Sangue"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "血の歌"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Canção do Sangue"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{R}",
+            "mcmId": 8495,
+            "mcmMetaId": 6843,
+            "mtgoFoilId": 7724,
+            "mtgoId": 7723,
+            "multiverseId": 3701,
+            "name": "Song of Blood",
+            "number": "94",
+            "originalText": "Put the top four cards from your library into your graveyard. For each creature card put into your graveyard in this way, all creatures that attack this turn get +1/+0 until end of turn.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.05
+                },
+                "paper": {
+                    "2019-11-30": 0.01
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "VIS"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/f6164cdd2a098436",
+                "tcgplayer": "https://mtgjson.com/links/29c28643a7f81021"
+            },
+            "rarity": "common",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "If a creature attacks more than once in a turn, it gets the bonus each time."
+                }
+            ],
+            "scryfallId": "4497a1d7-6604-4f2d-9484-1f1d77a6228f",
+            "scryfallIllustrationId": "5644541b-afa6-40e2-9222-39d2482ef7c0",
+            "scryfallOracleId": "ab4b6524-3667-4db3-b5cb-1b02ee944906",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5927,
+            "text": "Put the top four cards of your library into your graveyard.\nWhenever a creature attacks this turn, it gets +1/+0 until end of turn for each creature card put into your graveyard this way.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "50e69886-5a8e-567a-b10f-c4519e602296"
+        },
+        {
+            "artist": "Sandra Everingham",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 10109,
+            "flavorText": "\"Watch for it! Right on its tailfeathers will be a storm from your nightmares.\" —Arna Kennerüd, Skycaptain",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Sturmkrähe",
+                    "text": "Fliegend",
+                    "type": "Beschwörung eines Vogels"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Cuervo de la tempestad"
+                },
+                {
+                    "language": "French",
+                    "name": "Corbeau de l'orage"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Corvo delle Tempeste"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Corvo da Tempestade"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{U}",
+            "mcmId": 7906,
+            "mcmMetaId": 5635,
+            "multiverseId": 3120,
+            "name": "Storm Crow",
+            "number": "36b",
+            "originalText": "Flying",
+            "originalType": "Summon - Bird",
+            "power": "1",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.14
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
+                "ALL",
+                "POR",
+                "PPOD",
+                "S99"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/211a40344ed5b1d9",
+                "tcgplayer": "https://mtgjson.com/links/20de50c5e5cbd4d4"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "2dbf72f7-2360-4105-beae-946556884e40",
+            "scryfallIllustrationId": "c28c7cc0-e75d-46da-98e9-eeae1dad187b",
+            "scryfallOracleId": "000d5588-5a4c-434e-988d-396632ade42c",
+            "subtypes": [
+                "Bird"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4252,
+            "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+            "toughness": "2",
+            "type": "Creature — Bird",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "3e618dd8-8f95-539c-b373-9f23538ad2a0",
+            "variations": [
+                "17ca76a0-1b55-5f45-8375-4f39eab7a68f"
+            ]
+        },
+        {
+            "artist": "Carol Heyer",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 19248,
+            "flavorText": "\"Embrace the storm. Its voice shall echo within you, and its fire shall become your touch\" —Lovisa Coldeyes, Balduvian Chieftain",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Sturmschamane",
+                    "text": "{R}: +1/+0 bis zum Ende des Zuges",
+                    "type": "Beschwörung eines Klerikers"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Chamán de la tormenta"
+                },
+                {
+                    "language": "French",
+                    "name": "Shamane de l'orage"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Sciamano delle Tempeste"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Xamã da Tempestade"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{R}",
+            "mcmId": 7970,
+            "mcmMetaId": 5639,
+            "multiverseId": 3183,
+            "name": "Storm Shaman",
+            "number": "81b",
+            "originalText": "oR: +1/+0 until end of turn",
+            "originalType": "Summon - Cleric",
+            "power": "0",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.06
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "7ED",
+                "ALL",
+                "DKM"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/b12467edb4be149b",
+                "tcgplayer": "https://mtgjson.com/links/8b0f03858cd08f40"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "3a8f1150-6306-42a6-84e1-7dd5bfef6d14",
+            "scryfallIllustrationId": "bbf574ea-3344-4b56-b8e8-130c922da00a",
+            "scryfallOracleId": "65e07c0f-4eff-4b38-9785-63684d67c0d8",
+            "subtypes": [
+                "Human",
+                "Cleric",
+                "Shaman"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4255,
+            "text": "{R}: Storm Shaman gets +1/+0 until end of turn.",
+            "toughness": "4",
+            "type": "Creature — Human Cleric Shaman",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "ed321c5a-a104-5dc5-9c33-fad295d736b3",
+            "variations": [
+                "5ddd39d3-1df5-5e4e-b05d-4fa554e2a888"
+            ]
+        },
+        {
+            "artist": "Greg Simanson",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 17766,
+            "flavorText": "\"What Barbarian secrets do they spy from their lofty perch?\" —General Varchild",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Wilder Aesthir",
+                    "text": "Fliegend, Erstschlag\n{W}{W}: +2/+0 bis zum Ende des Zuges. Du kannst nicht mehr als {W}{W} auf diese Art pro Zug ausgeben.",
+                    "type": "Beschwörung eines Aesthirs"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Aesthir salvaje"
+                },
+                {
+                    "language": "French",
+                    "name": "Aeszir sauvage"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Aesthir Selvatico"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Aesthir Selvagem"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{W}",
+            "mcmId": 8006,
+            "mcmMetaId": 6617,
+            "multiverseId": 3219,
+            "name": "Wild Aesthir",
+            "number": "21b",
+            "originalText": "Flying, first strike\noWoW: +2/+0 until end of turn. You cannot spend more than oWoW in this way each turn.",
+            "originalType": "Summon - Aesthir",
+            "power": "1",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.05
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL",
+                "ME4"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/c22b537a3710192e",
+                "tcgplayer": "https://mtgjson.com/links/ee7f28fec27a3a90"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "ffecf097-a5b1-4bd9-ac3f-784bd44e447c",
+            "scryfallIllustrationId": "06483696-4f4d-4a41-acd1-eac04e7f771a",
+            "scryfallOracleId": "dbdf076c-18ce-45e3-8f70-0a32391ea4b6",
+            "subtypes": [
+                "Bird"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4286,
+            "text": "Flying, first strike\n{W}{W}: Wild Aesthir gets +2/+0 until end of turn. Activate this ability only once each turn.",
+            "toughness": "1",
+            "type": "Creature — Bird",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "9a1d11e9-06b3-56d0-906a-cafbe3ffda2f",
+            "variations": [
+                "2aab891a-a0c4-530b-acef-cf676cce1c6a"
+            ]
         }
     ],
     "code": "SRY",
@@ -5408,7 +8036,7 @@
     "releaseDate": "2019-12-28",
     "totalSetSize": 116,
     "type": "expansion",
-    "AlmostIn": [
+    "prospects": [
         {
             "artist": "Phil Foglio",
             "borderColor": "black",
@@ -5903,222 +8531,6 @@
             "uuid": "5ee62f7d-b95e-543c-9800-50865736f1bc"
         },
         {
-            "artist": "Ron Spencer",
-            "borderColor": "black",
-            "colorIdentity": [
-                "B"
-            ],
-            "colors": [
-                "B"
-            ],
-            "convertedManaCost": 4.0,
-            "edhrecRank": 12145,
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Aschfahler Ghoul",
-                    "text": "Der Aschfahle Ghoul kann bereits in dem Zug angreifen, in dem er ins Spiel kommt.\n{B}: Bringe den Aschfahlen Ghoul wieder zurück ins Spiel unter Deine Kontrolle. Benutze diese Eigenschaft nur am Ende Deiner Versorgungsphase, und nur, wenn mindestens drei Kreaturen über den Aschfahlen Ghoul auf dem Friedhof liegen.",
-                    "type": "Beschwörung eines Ghouls"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Gul ceniciento"
-                },
-                {
-                    "language": "French",
-                    "name": "Goule cendreuse"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Ghoul delle Ceneri"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Carniçal Cinéreo"
-                }
-            ],
-            "frameVersion": "1993",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isMtgo": true,
-            "isPaper": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "penny": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{3}{B}",
-            "mcmId": 6214,
-            "mcmMetaId": 312,
-            "mtgoId": 24393,
-            "multiverseId": 2438,
-            "name": "Ashen Ghoul",
-            "number": "114",
-            "originalText": "Ashen Ghoul can attack the turn it comes into play.\nooB Return Ashen Ghoul to play under your control. Use this ability only at the end of your upkeep and only if Ashen Ghoul is in your graveyard with at least three creature cards above it.",
-            "originalType": "Summon - Ghoul",
-            "power": "3",
-            "prices": {
-                "mtgo": {},
-                "mtgoFoil": {},
-                "paper": {
-                    "2019-11-30": 0.2
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "CST",
-                "ICE",
-                "ME2"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/09a6319d8bb6ca6b",
-                "tcgplayer": "https://mtgjson.com/links/eabee6aaeeceb344"
-            },
-            "rarity": "uncommon",
-            "rulings": [
-                {
-                    "date": "2008-10-01",
-                    "text": "A card is “above” another card in your graveyard if it was put into that graveyard later."
-                },
-                {
-                    "date": "2008-10-01",
-                    "text": "Players may not rearrange the cards in their graveyards."
-                },
-                {
-                    "date": "2008-10-01",
-                    "text": "If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order."
-                },
-                {
-                    "date": "2008-10-01",
-                    "text": "The last thing that happens to a resolving instant or sorcery spell is that it’s put into its owner’s graveyard. Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards."
-                },
-                {
-                    "date": "2008-10-01",
-                    "text": "Say you’re the owner of both a permanent and an Aura that’s attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma’s Vengeance, for example), you decide the order they’re put into your graveyard. If just the enchanted permanent is destroyed, it’s put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it."
-                }
-            ],
-            "scryfallId": "6bb83301-5662-4628-b536-6a3ee0296f2e",
-            "scryfallIllustrationId": "2ff944f5-50ff-4a6c-90d1-9353e986a7c7",
-            "scryfallOracleId": "46fbcbdf-73d0-4fa2-8db7-3b19bfc7ac22",
-            "subtypes": [
-                "Zombie"
-            ],
-            "supertypes": [],
-            "tcgplayerProductId": 4591,
-            "text": "Haste\n{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.",
-            "toughness": "1",
-            "type": "Creature — Zombie",
-            "types": [
-                "Creature"
-            ],
-            "uuid": "d055fcfa-56ad-57a2-839a-45ce13157959"
-        },
-        {
-            "artist": "Mike Kimble",
-            "borderColor": "black",
-            "colorIdentity": [
-                "B"
-            ],
-            "colors": [
-                "B"
-            ],
-            "convertedManaCost": 3.0,
-            "edhrecRank": 12394,
-            "flavorText": "There are medicines for all afflictions but idleness. —Suq'Ata saying",
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Benommenheit",
-                    "text": "Ein Gegner Deiner Wahl muß eine zufällig gezogene Karte aus seiner Hand abwerfen und wählt danach eine Karte aus seiner Hand und wirft diese ebenfalls ab.",
-                    "type": "Hexerei"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Estupor"
-                },
-                {
-                    "language": "French",
-                    "name": "Stupeur"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Torpore"
-                },
-                {
-                    "language": "Japanese",
-                    "name": "呆然"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Estupor"
-                }
-            ],
-            "frameVersion": "1997",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isMtgo": true,
-            "isPaper": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "modern": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{2}{B}",
-            "mcmId": 8096,
-            "mcmMetaId": 5678,
-            "mtgoFoilId": 7336,
-            "mtgoId": 7335,
-            "multiverseId": 3316,
-            "name": "Stupor",
-            "number": "147",
-            "originalText": "Target opponent discards a card at random, then chooses and discards a card.",
-            "originalType": "Sorcery",
-            "prices": {
-                "mtgo": {
-                    "2019-12-01": 0.04
-                },
-                "mtgoFoil": {
-                    "2019-12-01": 0.32
-                },
-                "paper": {
-                    "2019-11-30": 0.3
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "6ED",
-                "MIR",
-                "PAL00",
-                "PRM",
-                "TSB",
-                "WC99"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/6706dec5b3bf4c3f",
-                "tcgplayer": "https://mtgjson.com/links/9a7bf93d67da1284"
-            },
-            "rarity": "uncommon",
-            "rulings": [],
-            "scryfallId": "0fed2498-20ce-48ad-a56e-2c7e297c0c66",
-            "scryfallIllustrationId": "11e9d39a-342d-4a08-9495-395de5f36fcb",
-            "scryfallOracleId": "c19e3560-d304-4d91-aa2a-463d7dbb35bb",
-            "subtypes": [],
-            "supertypes": [],
-            "tcgplayerProductId": 5245,
-            "text": "Target opponent discards a card at random, then discards a card.",
-            "type": "Sorcery",
-            "types": [
-                "Sorcery"
-            ],
-            "uuid": "d7e9dd5b-3cd7-51e1-8b23-a6e803d52c36"
-        },
-        {
             "artist": "Jon J Muth",
             "borderColor": "black",
             "colorIdentity": [
@@ -6223,217 +8635,6 @@
                 "Instant"
             ],
             "uuid": "4a19343c-6bd6-5a19-a5b1-32c8962b584c"
-        },
-        {
-            "artist": "Brian Horton",
-            "borderColor": "black",
-            "colorIdentity": [
-                "B"
-            ],
-            "colors": [
-                "B"
-            ],
-            "convertedManaCost": 3.0,
-            "edhrecRank": 239,
-            "flavorText": "\"Is it worse to walk while dead, or to be buried alive? I have witnessed both.\" —Crovax",
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Lebendig begraben",
-                    "text": "Durchsuche Deine Bibliothek nach bis zu drei Kreaturenkarten und lege sie auf Deinen Friedhof. Mische Deine Bibliothek danach neu.",
-                    "type": "Hexerei"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Entierro en vida"
-                },
-                {
-                    "language": "French",
-                    "name": "Enterré vivant"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Sepolto Vivo"
-                },
-                {
-                    "language": "Japanese",
-                    "name": "生き埋め"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Enterrado Vivo"
-                }
-            ],
-            "frameVersion": "1997",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isMtgo": true,
-            "isPaper": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{2}{B}",
-            "mcmId": 8573,
-            "mcmMetaId": 750,
-            "mtgoFoilId": 9386,
-            "mtgoId": 9385,
-            "multiverseId": 4451,
-            "name": "Buried Alive",
-            "number": "63",
-            "originalText": "Search your library for up to three creature cards and put them into your graveyard. Shuffle your library afterwards.",
-            "originalType": "Sorcery",
-            "prices": {
-                "mtgo": {
-                    "2019-12-01": 0.2
-                },
-                "mtgoFoil": {
-                    "2019-12-01": 0.95
-                },
-                "paper": {
-                    "2019-11-30": 1.84
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "CM2",
-                "CMD",
-                "ODY",
-                "PD3",
-                "TD0",
-                "UMA",
-                "WC03",
-                "WTH"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/af352d84f4b280b9",
-                "tcgplayer": "https://mtgjson.com/links/741e92be1f58cf62"
-            },
-            "rarity": "uncommon",
-            "rulings": [
-                {
-                    "date": "2004-10-04",
-                    "text": "You can look in your library and then choose to find any number from zero to three creatures after you look at it."
-                }
-            ],
-            "scryfallId": "56b92eb5-72b0-46b4-8b16-8a7a7ac80f56",
-            "scryfallIllustrationId": "8977e697-c32f-4ec2-beb9-87c0ca001d53",
-            "scryfallOracleId": "8203c621-a1a0-4865-8c9a-0d4064c86107",
-            "subtypes": [],
-            "supertypes": [],
-            "tcgplayerProductId": 5998,
-            "text": "Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.",
-            "type": "Sorcery",
-            "types": [
-                "Sorcery"
-            ],
-            "uuid": "64c44628-8e23-5cf7-ae58-006332265f44"
-        },
-        {
-            "artist": "Donato Giancola",
-            "borderColor": "black",
-            "colorIdentity": [],
-            "colors": [],
-            "convertedManaCost": 4.0,
-            "edhrecRank": 14394,
-            "flavorText": "Every line holds a tale, and between lie a thousand more.",
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Zauberbuch der Thran",
-                    "text": "5, {T}: Zeige die obersten drei Karten Deiner Bibliothek einem Gegner Deiner Wahl. Begrabe eine dieser Karten, die dieser Gegner auswählt. Ziehe die übrigen Karten.",
-                    "type": "Artefakt"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Volumen de Thran"
-                },
-                {
-                    "language": "French",
-                    "name": "Grimoire de Thran"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Tomo di Thran"
-                },
-                {
-                    "language": "Japanese",
-                    "name": "スランの秘本"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Livro de Thran"
-                }
-            ],
-            "frameVersion": "1997",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isMtgo": true,
-            "isPaper": true,
-            "isReserved": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "penny": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{4}",
-            "mcmId": 8728,
-            "mcmMetaId": 5968,
-            "mtgoFoilId": 9262,
-            "mtgoId": 9261,
-            "multiverseId": 4443,
-            "name": "Thran Tome",
-            "number": "160",
-            "originalText": "o5, ocT: Reveal the top three cards of your library to target opponent. Bury one of those cards of that opponent's choice. Draw the remaining cards.",
-            "originalType": "Artifact",
-            "prices": {
-                "mtgo": {
-                    "2019-12-01": 0.03
-                },
-                "mtgoFoil": {
-                    "2019-12-01": 0.24
-                },
-                "paper": {
-                    "2019-11-30": 0.5
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "WTH"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/55789ace9c9196ae",
-                "tcgplayer": "https://mtgjson.com/links/105b1d1853beed43"
-            },
-            "rarity": "rare",
-            "rulings": [
-                {
-                    "date": "2006-10-15",
-                    "text": "It does not target the cards, but it targets the opponent. If you can’t target an opponent, you can’t activate this ability."
-                },
-                {
-                    "date": "2007-05-01",
-                    "text": "After the opponent chooses which card to put into your graveyard, you draw two cards regardless of how many were actually revealed or how many you have left in your library."
-                }
-            ],
-            "scryfallId": "63db7360-fe6e-430f-bfee-a2f80bcb6fec",
-            "scryfallIllustrationId": "d05e58dc-867c-4534-8316-95a424074434",
-            "scryfallOracleId": "78d2a3fd-864c-49f3-b531-c71dc3b35977",
-            "subtypes": [],
-            "supertypes": [],
-            "tcgplayerProductId": 6113,
-            "text": "{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.",
-            "type": "Artifact",
-            "types": [
-                "Artifact"
-            ],
-            "uuid": "439b2c8c-edc8-5e0b-96b5-dfc194debe12"
         }
     ]
 }
