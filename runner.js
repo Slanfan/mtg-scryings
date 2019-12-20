@@ -7,7 +7,7 @@ function getlength(number) {
 // need function to download all images when all cards are spoiled
 
 
-let json = require('./_scryings.json');
+let json = require('./scryings.json');
 
 json.cards.sort((a, b) => (a.name > b.name) ? 1 : -1)
 
@@ -18,6 +18,6 @@ json.cards.forEach(card => {
     if (getlength(counter) === 2) { preCounter = '0' + counter }
     else if (getlength(counter) === 1) { preCounter = '00' + counter }
     else { preCounter = counter }
-	console.log(preCounter + ": " + card.name);
-  counter++;
+    console.log(preCounter + ": " + card.name);
+    counter++;
 });
