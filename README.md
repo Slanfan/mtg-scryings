@@ -33,3 +33,9 @@ Cards that create a lot of consistency could alter the old school "rythm", so we
 
 # Featured Cards
 ![Man-o'-War](https://img.scryfall.com/cards/small/front/4/d/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b.jpg?1562277656) ![Zuran Orb](https://img.scryfall.com/cards/small/front/3/a/3a9d1082-a862-45d4-9e5e-392e879fead6.jpg?1562905818) ![Kjeldoran Outpost](https://img.scryfall.com/cards/small/front/e/0/e0769fc7-50b5-4b49-8aff-af04536288fb.jpg?1562770637)
+
+# Images
+Images are included here in three sizes.
+* Small  (146 x 204) JPG
+* Normal (488 x 680) JPG
+* Large  (672 x 936) JPG
