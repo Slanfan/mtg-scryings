@@ -8028,104 +8028,6 @@
             "variations": [
                 "2aab891a-a0c4-530b-acef-cf676cce1c6a"
             ]
-        }
-    ],
-    "code": "SRY",
-    "keyruneCode": "SRY",
-    "name": "Scryings",
-    "releaseDate": "2019-12-28",
-    "totalSetSize": 116,
-    "type": "expansion",
-    "prospects": [
-        {
-            "artist": "Phil Foglio",
-            "borderColor": "black",
-            "colorIdentity": [
-                "U"
-            ],
-            "colors": [
-                "U"
-            ],
-            "convertedManaCost": 4.0,
-            "edhrecRank": 17553,
-            "flavorText": "\"Once great literature—now great litter.\"\n—Jaya Ballard, Task Mage",
-            "foreignData": [
-                {
-                    "language": "German",
-                    "name": "Durchstöbern",
-                    "text": "{2}{U}{U}: Schau Dir die obersten fünf Karten Deiner Bibliothek an und nimm eine davon auf Deine Hand. Entferne die übrigen vier Karten aus dem Spiel.",
-                    "type": "Verzauberung"
-                },
-                {
-                    "language": "Spanish",
-                    "name": "Hojear"
-                },
-                {
-                    "language": "French",
-                    "name": "Feuilletage"
-                },
-                {
-                    "language": "Italian",
-                    "name": "Curiosare"
-                },
-                {
-                    "language": "Portuguese (Brazil)",
-                    "name": "Folhear"
-                }
-            ],
-            "frameVersion": "1993",
-            "hasFoil": false,
-            "hasNonFoil": true,
-            "isMtgo": true,
-            "isPaper": true,
-            "layout": "normal",
-            "legalities": {
-                "commander": "Legal",
-                "duel": "Legal",
-                "legacy": "Legal",
-                "vintage": "Legal"
-            },
-            "manaCost": "{2}{U}{U}",
-            "mcmId": 7890,
-            "mcmMetaId": 733,
-            "mtgoId": 24487,
-            "multiverseId": 3103,
-            "name": "Browse",
-            "number": "25",
-            "originalText": "o2oUoU: Look at the top five cards of your library and put one of them into your hand. Remove the remaining four from the game.",
-            "originalType": "Enchantment",
-            "prices": {
-                "mtgo": {},
-                "mtgoFoil": {},
-                "paper": {
-                    "2019-11-30": 0.1
-                },
-                "paperFoil": {}
-            },
-            "printings": [
-                "6ED",
-                "ALL",
-                "CST",
-                "ME2"
-            ],
-            "purchaseUrls": {
-                "cardmarket": "https://mtgjson.com/links/ec11ee261f82fdf5",
-                "tcgplayer": "https://mtgjson.com/links/abd285e8b11e18ca"
-            },
-            "rarity": "uncommon",
-            "rulings": [],
-            "scryfallId": "578549f0-5643-4891-b467-2d1cb49fe4ea",
-            "scryfallIllustrationId": "20ea55ab-8e77-429c-b7b8-31a636b193dc",
-            "scryfallOracleId": "49491601-e272-4603-9348-185a2953bd4b",
-            "subtypes": [],
-            "supertypes": [],
-            "tcgplayerProductId": 4114,
-            "text": "{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest.",
-            "type": "Enchantment",
-            "types": [
-                "Enchantment"
-            ],
-            "uuid": "429fc207-7966-5941-a116-9857c13726b6"
         },
         {
             "artist": "Randy Gallegos",
@@ -8231,6 +8133,530 @@
                 "Enchantment"
             ],
             "uuid": "d8a02189-4d8a-5ed8-aad3-ac5121f773f1"
+        },
+        {
+            "artist": "Martin McKenna",
+            "borderColor": "black",
+            "colorIdentity": [
+                "B"
+            ],
+            "colors": [
+                "B"
+            ],
+            "convertedManaCost": 1.0,
+            "edhrecRank": 12856,
+            "flavorText": "You lie down with rats, and the rats run away. —Suq'Ata insult",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Kanalratten",
+                    "text": "{B}, zahle 1 Lebenspunkt: +1/+0 bis zum Ende des Zuges. Du kannst nicht mehr als BBB auf diese Art pro Zug ausgeben.",
+                    "type": "Beschwörung von Ratten"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Ratas de alcantarilla"
+                },
+                {
+                    "language": "French",
+                    "name": "Rats d'égoûts"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Ratti di Fogna"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "下水ネズミ"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Ratos de Esgoto"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{B}",
+            "mcmId": 8088,
+            "mcmMetaId": 5089,
+            "mtgoFoilId": 7292,
+            "mtgoId": 7291,
+            "multiverseId": 3308,
+            "name": "Sewer Rats",
+            "number": "139",
+            "originalText": "oB, Pay 1 life: +1/+0 until end of turn. You cannot spend more than oBoBoB in this way each turn.",
+            "originalType": "Summon - Rats",
+            "power": "1",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.05
+                },
+                "paper": {
+                    "2019-11-30": 0.1
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "BRB",
+                "MIR"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/c2cf05fc939b52cc",
+                "tcgplayer": "https://mtgjson.com/links/6b25866c1f7dc45d"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "42fe08c3-5024-486c-ba03-19d371ceccb0",
+            "scryfallIllustrationId": "07ad2abb-99d6-4097-89d0-861e81b8ea70",
+            "scryfallOracleId": "bf526a0d-65cc-445f-b2b8-19a2cfdd836b",
+            "subtypes": [
+                "Rat"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 5223,
+            "text": "{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.",
+            "toughness": "1",
+            "type": "Creature — Rat",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "d6dd9bfc-7e27-5ade-a51f-338a339b7569"
+        },
+        {
+            "artist": "David A. Cherry",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 18645,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Mangaras Segen",
+                    "text": "Du erhältst 5 Lebenspunkte dazu.\nWenn ein Zauberspruch oder ein Effekt eines Gegners Dich dazu zwingt, Mangaras Segen abzuwerfen, erhältst Du 2 Lebenspunkte dazu und nimmst Mangaras Segen am Ende des Zuges aus Deinem Friedhof zurück auf Deine Hand.",
+                    "type": "Spontanzauber"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Bendición de Mangara"
+                },
+                {
+                    "language": "French",
+                    "name": "Bénédiction selon Mangara"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Benedizione di Mangara"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "マンガラの祝福"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Bênção de Mangara"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{W}",
+            "mcmId": 8280,
+            "mcmMetaId": 3464,
+            "mtgoFoilId": 7114,
+            "mtgoId": 7113,
+            "multiverseId": 3500,
+            "name": "Mangara's Blessing",
+            "number": "25",
+            "originalText": "Gain 5 life.\nWhen a spell or ability an opponent controls causes you to discard Mangara's Blessing, you gain 2 life and return Mangara's Blessing from your graveyard to your hand at end of turn.",
+            "originalType": "Instant",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.01
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.02
+                },
+                "paper": {
+                    "2019-11-30": 0.07
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "MIR"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/dbbe2b5ca4bddea4",
+                "tcgplayer": "https://mtgjson.com/links/beb81e71a33a62f3"
+            },
+            "rarity": "uncommon",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "The 2 life from having it discarded is gained when the triggered ability resolves, not at end of turn. Only the return to hand is done at end of turn."
+                },
+                {
+                    "date": "2004-10-04",
+                    "text": "The Mangara’s Blessing card is only returned if it is still in the graveyard at end of turn and never left the graveyard in the meantime."
+                }
+            ],
+            "scryfallId": "b0125f79-ff68-4fb9-b309-8d277259f323",
+            "scryfallIllustrationId": "244a5494-0bba-4fd4-97ab-0c80c2e3eda2",
+            "scryfallOracleId": "5d9431de-7cf0-43d4-9b86-e0ef4a7756f9",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5134,
+            "text": "You gain 5 life.\nWhen a spell or ability an opponent controls causes you to discard Mangara's Blessing, you gain 2 life, and you return Mangara's Blessing from your graveyard to your hand at the beginning of the next end step.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "fc92852b-4932-5f84-b12b-787bc626b6bc"
+        },
+        {
+            "artist": "Una Fricker",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 11619,
+            "flavorText": "\"Is it true that the apes wear furs of gold when they marry?\" —Rana, Suq'Ata market fool",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Uktabi-Orangutan",
+                    "text": "Wenn der Uktabi-Orangutan ins Spiel kommt, zerstöre ein Artefakt Deiner Wahl.",
+                    "type": "Beschwörung eines Menschenaffen"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Orangután de Uktabi"
+                },
+                {
+                    "language": "French",
+                    "name": "Orang-outang de l'Ouktabi"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Orango di Uktabi"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "ウークタビー・オランウータン"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Orangotango de Uktabi"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{G}",
+            "mcmId": 8474,
+            "mcmMetaId": 6202,
+            "mtgoFoilId": 7770,
+            "mtgoId": 7769,
+            "multiverseId": 3680,
+            "name": "Uktabi Orangutan",
+            "number": "123",
+            "originalText": "When Uktabi Orangutan comes into play, destroy target artifact.",
+            "originalType": "Summon - Ape",
+            "power": "2",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.23
+                },
+                "paper": {
+                    "2019-11-30": 0.19
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "PAL00",
+                "PRM",
+                "VIS",
+                "WC00",
+                "WC97",
+                "WC98",
+                "WC99"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/df5aa22b6d3d31eb",
+                "tcgplayer": "https://mtgjson.com/links/8ae4ab086c08b256"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "101c7d58-43cc-4ebd-87f1-2016fbff56dd",
+            "scryfallIllustrationId": "cb506e13-0599-440a-be3f-6b319c5c6a5e",
+            "scryfallOracleId": "6cc07a7e-e70c-45c5-83c5-a2704e57dbc5",
+            "subtypes": [
+                "Ape"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 5950,
+            "text": "When Uktabi Orangutan enters the battlefield, destroy target artifact.",
+            "toughness": "2",
+            "type": "Creature — Ape",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "cd3cc62b-473d-51d4-9f43-26eff63e02f1"
+        },
+        {
+            "artist": "David Seeley",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 6644,
+            "flavorText": "\"Mold could catch you.\" —Suq'Ata insult",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Schleichender Schimmel",
+                    "text": "Zerstöre ein Artefakt, ein Land oder eine Verzauberung Deiner Wahl.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Moho reptante"
+                },
+                {
+                    "language": "French",
+                    "name": "Moisissure rampante"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Muffa Insidiosa"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "忍び寄るカビ"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Bolor Invasor"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "penny": "Legal",
+                "pioneer": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{G}{G}",
+            "mcmId": 8454,
+            "mcmMetaId": 1185,
+            "mtgoFoilId": 7508,
+            "mtgoId": 7507,
+            "multiverseId": 3660,
+            "name": "Creeping Mold",
+            "number": "103",
+            "originalText": "Destroy target artifact, land, or enchantment.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.04
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.03
+                },
+                "paper": {
+                    "2019-11-30": 0.17
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "10E",
+                "6ED",
+                "7ED",
+                "8ED",
+                "9ED",
+                "KLD",
+                "MB1",
+                "MRD",
+                "PAL01",
+                "PRM",
+                "VIS",
+                "WC00"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/d62db359fce7f3be",
+                "tcgplayer": "https://mtgjson.com/links/42768733c3311054"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "36e7691f-c771-4451-ac54-3532ca10d48f",
+            "scryfallIllustrationId": "e93956b8-744f-4d85-b3be-d07b0a60ea2c",
+            "scryfallOracleId": "59180e94-ccdf-4d9f-9a4a-fe55497d0d63",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 5819,
+            "text": "Destroy target artifact, enchantment, or land.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "83d5fbe8-c062-5184-8627-65dd3d89f88a"
+        }
+    ],
+    "code": "SRY",
+    "keyruneCode": "SRY",
+    "name": "Scryings",
+    "releaseDate": "2019-12-28",
+    "totalSetSize": 116,
+    "type": "expansion",
+    "prospects": [
+        {
+            "artist": "Phil Foglio",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 17553,
+            "flavorText": "\"Once great literature—now great litter.\"\n—Jaya Ballard, Task Mage",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Durchstöbern",
+                    "text": "{2}{U}{U}: Schau Dir die obersten fünf Karten Deiner Bibliothek an und nimm eine davon auf Deine Hand. Entferne die übrigen vier Karten aus dem Spiel.",
+                    "type": "Verzauberung"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Hojear"
+                },
+                {
+                    "language": "French",
+                    "name": "Feuilletage"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Curiosare"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Folhear"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{U}{U}",
+            "mcmId": 7890,
+            "mcmMetaId": 733,
+            "mtgoId": 24487,
+            "multiverseId": 3103,
+            "name": "Browse",
+            "number": "25",
+            "originalText": "o2oUoU: Look at the top five cards of your library and put one of them into your hand. Remove the remaining four from the game.",
+            "originalType": "Enchantment",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.1
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "ALL",
+                "CST",
+                "ME2"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/ec11ee261f82fdf5",
+                "tcgplayer": "https://mtgjson.com/links/abd285e8b11e18ca"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "578549f0-5643-4891-b467-2d1cb49fe4ea",
+            "scryfallIllustrationId": "20ea55ab-8e77-429c-b7b8-31a636b193dc",
+            "scryfallOracleId": "49491601-e272-4603-9348-185a2953bd4b",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4114,
+            "text": "{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest.",
+            "type": "Enchantment",
+            "types": [
+                "Enchantment"
+            ],
+            "uuid": "429fc207-7966-5941-a116-9857c13726b6"
         },
         {
             "artist": "Mark Tedin",
