@@ -8559,15 +8559,7 @@
                 "Sorcery"
             ],
             "uuid": "83d5fbe8-c062-5184-8627-65dd3d89f88a"
-        }
-    ],
-    "code": "SRY",
-    "keyruneCode": "SRY",
-    "name": "Scryings",
-    "releaseDate": "2019-12-28",
-    "totalSetSize": 116,
-    "type": "expansion",
-    "prospects": [
+        },
         {
             "artist": "Phil Foglio",
             "borderColor": "black",
@@ -8658,6 +8650,632 @@
             ],
             "uuid": "429fc207-7966-5941-a116-9857c13726b6"
         },
+        {
+            "artist": "Pat Morrissey",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G",
+                "R"
+            ],
+            "colors": [
+                "G"
+            ],
+            "convertedManaCost": 1.0,
+            "edhrecRank": 14504,
+            "flavorText": "\"It is the work of sorcery. Burn it!\" —Taaveti of Kelsinko, Elvish Hunter",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Unterholz",
+                    "text": "Keine Kreatur teilt während des Angriffs in diesem Zug Schaden aus. Wenn Du {2}{R} zusätzlich zu den Spruchkosten bezahlst, sind rote Kreaturen vom Unterholz nicht betroffen.",
+                    "type": "Spontanzauber"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Arbustos"
+                },
+                {
+                    "language": "French",
+                    "name": "Sous-Bois"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Sottobosco"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Vegetação Rasteira"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{G}",
+            "mcmId": 7939,
+            "mcmMetaId": 6212,
+            "multiverseId": 3152,
+            "name": "Undergrowth",
+            "number": "102a",
+            "originalText": "No creatures deal damage in combat this turn. If you pay o2oR in addition to the casting cost, Undergrowth does not affect red creatures.",
+            "originalType": "Instant",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.08
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/9631220de252506f",
+                "tcgplayer": "https://mtgjson.com/links/599e950757cd3804"
+            },
+            "rarity": "common",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "It means that red creatures still deal damage if you pay the additional cost."
+                }
+            ],
+            "scryfallId": "9ade0829-8b90-4ed2-99f3-dd748e7706b8",
+            "scryfallIllustrationId": "44576a54-d6bc-42b4-891d-4168464da027",
+            "scryfallOracleId": "f125b6b0-c5ff-44d1-bf99-ebc537d37fc3",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 81853,
+            "text": "As an additional cost to cast this spell, you may pay {2}{R}.\nPrevent all combat damage that would be dealt this turn. If this spell's additional cost was paid, this effect doesn't affect combat damage that would be dealt by red creatures.",
+            "type": "Instant",
+            "types": [
+                "Instant"
+            ],
+            "uuid": "49b81d05-69a1-54c1-8316-3908a1a7f0d3",
+            "variations": [
+                "f70301ed-1358-5fd2-8517-ca4f9ca53af5"
+            ]
+        },
+        {
+            "artist": "Richard Kane Ferguson",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 4858,
+            "flavorText": "\"Were they to reduce us to ash, we would clog their throats and sting their eyes in payment.\" —Lovisa Coldeyes, Balduvian Chieftain",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Plünderung",
+                    "text": "Begrabe ein Artefakt oder ein Land Deiner Wahl.",
+                    "type": "Hexerei"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Saqueo"
+                },
+                {
+                    "language": "French",
+                    "name": "Pillage"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Saccheggio"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Pilhagem"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{R}{R}",
+            "mcmId": 7965,
+            "mcmMetaId": 4223,
+            "multiverseId": 3178,
+            "name": "Pillage",
+            "number": "76",
+            "originalText": "Bury target artifact or land.",
+            "originalType": "Sorcery",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.51
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "7ED",
+                "A25",
+                "ALL",
+                "DKM",
+                "MB1",
+                "ME2",
+                "MH1",
+                "PAL00",
+                "PD2",
+                "PRM",
+                "WC97",
+                "WC99"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/35bf21c86692095b",
+                "tcgplayer": "https://mtgjson.com/links/08f88745513481ca"
+            },
+            "rarity": "uncommon",
+            "rulings": [],
+            "scryfallId": "389ecb50-b007-4086-89fb-ec2daa5afdcf",
+            "scryfallIllustrationId": "c1991111-873c-4bdf-a720-b3fb4f1d28f5",
+            "scryfallOracleId": "0b137853-7cb9-424b-8285-12938991eafb",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4215,
+            "text": "Destroy target artifact or land. It can't be regenerated.",
+            "type": "Sorcery",
+            "types": [
+                "Sorcery"
+            ],
+            "uuid": "a4d7d765-7b01-55fd-8e3a-f0c120d1d693"
+        },
+        {
+            "artist": "Brian Snõddy",
+            "borderColor": "black",
+            "colorIdentity": [
+                "R"
+            ],
+            "colors": [
+                "R"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 14415,
+            "flavorText": "\"Peace will come only when we have taken Varchild's head.\" —Lovisa Coldeyes, Balduvian Chieftain",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Balduvianische Horde",
+                    "text": "Wenn die Balduvianische Horde ins Spiel kommt, wirf eine zufällige Karte aus Deiner Hand ab oder begrabe die Balduvianische Horde.",
+                    "type": "Beschwörung von Barbaren"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Horda balduviana"
+                },
+                {
+                    "language": "French",
+                    "name": "Horde Balduviane"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Orda di Balduvia"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Horda Balduviana"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{R}{R}",
+            "mcmId": 7948,
+            "mcmMetaId": 416,
+            "multiverseId": 3161,
+            "name": "Balduvian Horde",
+            "number": "65",
+            "originalText": "When Balduvian Horde comes into play, discard a card at random from your hand or bury Balduvian Horde.",
+            "originalType": "Summon - Barbarians",
+            "power": "5",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.41
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "6ED",
+                "A25",
+                "ALL",
+                "BTD",
+                "DKM",
+                "MB1",
+                "ME1",
+                "PRM",
+                "PWOR"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/bf5d5b6381e11572",
+                "tcgplayer": "https://mtgjson.com/links/550b182719f37fc1"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "You choose whether to discard or not on resolution. If not, then you sacrifice this card. You can choose to not discard even if you no longer control this card on resolution."
+                }
+            ],
+            "scryfallId": "8e167a6c-05f8-4d90-9f6b-eb0f1046d54a",
+            "scryfallIllustrationId": "5469249e-6377-4736-911d-f63567a81d83",
+            "scryfallOracleId": "fd2a94d3-901d-4b46-aa9b-a30ed6dea6bd",
+            "subtypes": [
+                "Human",
+                "Barbarian"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 4105,
+            "text": "When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.",
+            "toughness": "5",
+            "type": "Creature — Human Barbarian",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "963ed1b2-bf93-55e4-ad7e-a7c1e565b724"
+        },
+        {
+            "artist": "Greg Simanson",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 14517,
+            "flavorText": "The rising oceans brought new lakes—and new terrors—to Terisiare. The Explorers found their ancient enemies spawning everywhere.",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Meeresforscher",
+                    "text": "{T}: Enttappe ein getapptes Land Deiner Wahl, das ein Gegner kontrolliert, um ein Mana eines Typs, den dieses Land produzieren kann, zu erhöhen.",
+                    "type": "Beschwörung von Meervolk"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Exploradores bénticos"
+                },
+                {
+                    "language": "French",
+                    "name": "Exploratrices benthics"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Esploratore di Benthic"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Exploradores Bênticos"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{3}{U}",
+            "mcmId": 7889,
+            "mcmMetaId": 529,
+            "multiverseId": 3102,
+            "name": "Benthic Explorers",
+            "number": "24a",
+            "originalText": "ocT: Untap target tapped land an opponent controls to add one mana of any type that land produces to your mana pool.",
+            "originalType": "Summon - Merfolk",
+            "power": "2",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.07
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ALL",
+                "ME3"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/998a1a3b599578b0",
+                "tcgplayer": "https://mtgjson.com/links/f89607ec167e56a9"
+            },
+            "rarity": "common",
+            "rulings": [
+                {
+                    "date": "2004-10-04",
+                    "text": "This ability is not targeted any more."
+                },
+                {
+                    "date": "2009-10-01",
+                    "text": "Untapping a tapped land an opponent controls is part of the cost of Benthic Explorers’s ability. If no opponent controls a tapped land, the ability can’t be activated."
+                },
+                {
+                    "date": "2009-10-01",
+                    "text": "The types of mana are white, blue, black, red, green, and colorless."
+                },
+                {
+                    "date": "2009-10-01",
+                    "text": "Benthic Explorers checks the effects of all mana-producing abilities of the land untapped to pay its cost, but it doesn’t check the costs of those abilities. For example, Vivid Crag has the ability “{T}, Remove a charge counter from Vivid Crag: Add one mana of any color.” If you untap a tapped Vivid Crag an opponent controls while paying for Benthic Explorers’s ability, you can add one mana of any color to your mana pool. It doesn’t matter whether that Vivid Crag has a charge counter on it."
+                },
+                {
+                    "date": "2009-10-01",
+                    "text": "When determining what types of mana an opponent’s land could produce, take into account any applicable replacement effects that would apply to that land’s mana abilities (such as Contamination’s effect, for example). If there is more than one, consider them in any possible order."
+                },
+                {
+                    "date": "2009-10-01",
+                    "text": "Benthic Explorers doesn’t care about any restrictions or riders an opponent’s land (such as Ancient Ziggurat or Hall of the Bandit Lord) puts on the mana it produces. It just cares about types of mana."
+                }
+            ],
+            "scryfallId": "146eb650-92c8-48a9-a40d-e7bba6545f36",
+            "scryfallIllustrationId": "8ec24280-0502-4106-b3e9-086ed3ee8134",
+            "scryfallOracleId": "bc0518fc-d34b-474a-92c5-2cb013828396",
+            "subtypes": [
+                "Merfolk",
+                "Scout"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 81807,
+            "text": "{T}, Untap a tapped land an opponent controls: Add one mana of any type that land could produce.",
+            "toughness": "4",
+            "type": "Creature — Merfolk Scout",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "3dd20139-ba1a-54e0-88ea-44e2af5296d0",
+            "variations": [
+                "5bdd8e53-5d9e-5b0a-9647-28029049372e"
+            ]
+        },
+        {
+            "artist": "David A. Cherry",
+            "borderColor": "black",
+            "colorIdentity": [],
+            "colors": [],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 4967,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Gezackte Pfeile",
+                    "text": "Lege drei Pfeilspitzen-Marken auf die gezackten Pfeile, wenn sie ins Spiel kommen.\nBegrabe die Gezackten Pfeile, wenn während Deiner Versorgungsphase keine Pfeilspitzen-Marken auf ihnen liegen.\n{T}: Entferne eine Pfeilspitzen-Marke, um eine -1/-1-Spielmarke auf einer Kreatur Deiner Wahl zu legen.",
+                    "type": "Artefakt"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Flechas dentadas"
+                },
+                {
+                    "language": "French",
+                    "name": "Flêches barbelées"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Frecce Dentellate"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Flechas Denteadas"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{4}",
+            "mcmId": 7847,
+            "mcmMetaId": 5078,
+            "multiverseId": 2909,
+            "name": "Serrated Arrows",
+            "number": "110",
+            "originalText": "When Serrated Arrows comes into play, put three arrowhead counters on it.\nDuring your upkeep, bury Serrated Arrows if there are no arrowhead counters on it.\nocT: Remove an arrowhead counter from Serrated Arrows to put a -1/-1 counter on target creature.",
+            "originalType": "Artifact",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.81
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "ATH",
+                "DDD",
+                "F08",
+                "GVL",
+                "HML",
+                "MB1",
+                "PRM",
+                "PTC",
+                "TSB",
+                "WC97"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/bbabeab82420cbc3",
+                "tcgplayer": "https://mtgjson.com/links/b23826ecdcfe9d69"
+            },
+            "rarity": "common",
+            "rulings": [
+                {
+                    "date": "2008-08-01",
+                    "text": "The upkeep trigger checks the number of counters at the start of upkeep, and only goes on the stack if there are no arrowhead counters at that time. It will check again on resolution, and will do nothing if you’ve somehow manage to get a new arrowhead counter on the Arrows."
+                }
+            ],
+            "scryfallId": "849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2",
+            "scryfallIllustrationId": "538676a7-8143-4663-8e52-26542f5e8867",
+            "scryfallOracleId": "5fa4607a-6731-4599-80f3-19d6097b4b28",
+            "subtypes": [],
+            "supertypes": [],
+            "tcgplayerProductId": 4556,
+            "text": "Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.\n{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.",
+            "type": "Artifact",
+            "types": [
+                "Artifact"
+            ],
+            "uuid": "4619ed1c-1b6c-5bcf-afa5-9f99385012fe"
+        },
+        {
+            "artist": "Cecil Fernando",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 2.0,
+            "edhrecRank": 13149,
+            "flavorText": "\"Seaborne ships have their dolphins to dance in their wakes; I have my duskriders.\" —Sisay, journal",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Dämmerlichtfalke",
+                    "text": "Fliegend, Schutz vor Schwarz",
+                    "type": "Beschwörung eines Falken"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Halcón del crepúsculo"
+                },
+                {
+                    "language": "French",
+                    "name": "Faucon crépusculaire"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Falco dell'Imbrunire"
+                },
+                {
+                    "language": "Japanese",
+                    "name": "ダスクライダー"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Falcão do Anoitecer"
+                }
+            ],
+            "frameVersion": "1997",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "pauper": "Legal",
+                "penny": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{W}",
+            "mcmId": 8696,
+            "mcmMetaId": 1645,
+            "mtgoFoilId": 9236,
+            "mtgoId": 9235,
+            "multiverseId": 4574,
+            "name": "Duskrider Falcon",
+            "number": "12",
+            "originalText": "Flying, protection from black",
+            "originalType": "Summon - Falcon",
+            "power": "1",
+            "prices": {
+                "mtgo": {
+                    "2019-12-01": 0.01
+                },
+                "mtgoFoil": {
+                    "2019-12-01": 0.07
+                },
+                "paper": {
+                    "2019-11-30": 0.09
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "WTH"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/5b492ced93a5528d",
+                "tcgplayer": "https://mtgjson.com/links/0c064516a0ec5302"
+            },
+            "rarity": "common",
+            "rulings": [],
+            "scryfallId": "bee3a23a-6ecf-439c-8637-e096fa8c1a80",
+            "scryfallIllustrationId": "ffc61fa9-389c-4f68-b867-2fdfed35b132",
+            "scryfallOracleId": "d87ab916-5d49-4840-8d5b-805af800a83c",
+            "subtypes": [
+                "Bird"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 6016,
+            "text": "Flying, protection from black",
+            "toughness": "1",
+            "type": "Creature — Bird",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "9dd1526f-45c1-5b9c-91f4-29e2244ee156"
+        }
+    ],
+    "code": "SRY",
+    "keyruneCode": "SRY",
+    "name": "Scryings",
+    "releaseDate": "2019-12-28",
+    "totalSetSize": 116,
+    "type": "expansion",
+    "prospects": [
         {
             "artist": "Mark Tedin",
             "borderColor": "black",
