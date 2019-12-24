@@ -9267,6 +9267,226 @@
                 "Creature"
             ],
             "uuid": "9dd1526f-45c1-5b9c-91f4-29e2244ee156"
+        },
+        {
+            "artist": "Susan Van Camp",
+            "borderColor": "black",
+            "colorIdentity": [
+                "U"
+            ],
+            "colors": [
+                "U"
+            ],
+            "convertedManaCost": 4.0,
+            "edhrecRank": 12276,
+            "flavorText": "\"It's nice to see a sister Dwarf in a position of such power, but why'd it have to be one of those seafaring muleheads?\" —Halina, Dwarven Trader",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Reveka, Gelehrte Zauberin",
+                    "text": "{T}: Reveka fügt einer Kreatur oder einem Spieler Deiner Wahl 2 Schadenspunkte zu. Reveka enttappt nicht während Deiner nächsten Enttap-Phase.",
+                    "type": "Beschwörung einer Legende"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Reveka, Hechiccera Decana"
+                },
+                {
+                    "language": "French",
+                    "name": "Reveka, SajMage"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Reveka, Maga Sapiente"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Reveka, Maga Sábia"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isReserved": true,
+            "layout": "normal",
+            "leadershipSkills": {
+                "brawl": false,
+                "commander": true,
+                "oathbreaker": false
+            },
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{U}{U}",
+            "mcmId": 7759,
+            "mcmMetaId": 4669,
+            "multiverseId": 2956,
+            "name": "Reveka, Wizard Savant",
+            "number": "37",
+            "originalText": "ocT: Reveka deals 2 damage to target creature or player and does not untap during your next untap phase.",
+            "originalType": "Summon - Legend",
+            "power": "0",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 0.53
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "HML",
+                "ME3"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/df135d0971ec12bf",
+                "tcgplayer": "https://mtgjson.com/links/9baa6a7a3b12b993"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2009-10-01",
+                    "text": "Reveka’s effect causes it not to untap during _your_ next untap step. If another player gains control of it, it will untap during that player’s next untap step."
+                }
+            ],
+            "scryfallId": "a952236e-3085-4e6e-8639-355976b7c8f5",
+            "scryfallIllustrationId": "56862bc2-05b1-4b48-b01c-e28e6067bfa7",
+            "scryfallOracleId": "7085d5c6-da96-465e-90cf-8469fcacb474",
+            "subtypes": [
+                "Dwarf",
+                "Wizard"
+            ],
+            "supertypes": [
+                "Legendary"
+            ],
+            "tcgplayerProductId": 4540,
+            "text": "{T}: Reveka, Wizard Savant deals 2 damage to any target and doesn't untap during your next untap step.",
+            "toughness": "1",
+            "type": "Legendary Creature — Dwarf Wizard",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "aadd3bf4-d560-5107-8e02-eea9fdeefd70"
+        },
+        {
+            "artist": "Dennis Detwiller",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 9021,
+            "flavorText": "\"Soraya speaks with the hunters of the air, as do all of her family line.\" —Autumn Willow",
+            "foreignData": [
+                {
+                    "language": "German",
+                    "name": "Sorayna, die Falknerin",
+                    "text": "Alle Falken erhalten +1/+1.\n{1}{W}: Ein Falke Deiner Wahl erhält Bündnisfähigkeit bis zum Ende des Zuges.",
+                    "type": "Beschwörung einer Legende"
+                },
+                {
+                    "language": "Spanish",
+                    "name": "Soraya la Halconera"
+                },
+                {
+                    "language": "French",
+                    "name": "Soraya des faucons"
+                },
+                {
+                    "language": "Italian",
+                    "name": "Soraya, la Falconiera",
+                    "text": "Tutti i Falconi guadagnano +1/+1\n{1}{W}: Il Falcone bersaglio guadagna l'abilita branco fino alla fine del turno",
+                    "type": "Evoca Leggenda"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "name": "Soraya, a Falcoeira"
+                }
+            ],
+            "frameVersion": "1993",
+            "hasFoil": false,
+            "hasNonFoil": true,
+            "isPaper": true,
+            "isReserved": true,
+            "layout": "normal",
+            "leadershipSkills": {
+                "brawl": false,
+                "commander": true,
+                "oathbreaker": false
+            },
+            "legalities": {
+                "commander": "Legal",
+                "duel": "Legal",
+                "legacy": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{1}{W}{W}",
+            "mcmId": 7834,
+            "mcmMetaId": 5400,
+            "multiverseId": 3031,
+            "name": "Soraya the Falconer",
+            "number": "18",
+            "originalText": "All Falcons get +1/+1.\no1ooW Target Falcon gains banding until end of turn.",
+            "originalType": "Summon - Legend",
+            "power": "2",
+            "prices": {
+                "mtgo": {},
+                "mtgoFoil": {},
+                "paper": {
+                    "2019-11-30": 1.64
+                },
+                "paperFoil": {}
+            },
+            "printings": [
+                "HML"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/140d9c04f934059b",
+                "tcgplayer": "https://mtgjson.com/links/d68e83f92ed9cc20"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2008-10-01",
+                    "text": "If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a “band.” The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers’ damage is assigned."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it."
+                },
+                {
+                    "date": "2008-10-01",
+                    "text": "Creatures in the same band must all attack the same player or planeswalker."
+                },
+                {
+                    "date": "2009-10-01",
+                    "text": "If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment."
+                }
+            ],
+            "scryfallId": "19fb3ce2-a660-4829-9af4-330cfd612f06",
+            "scryfallIllustrationId": "d2669238-52be-40ad-913b-3b5106378eed",
+            "scryfallOracleId": "0f1c14c5-7a28-47b0-a603-33cc592b00ad",
+            "subtypes": [
+                "Human"
+            ],
+            "supertypes": [
+                "Legendary"
+            ],
+            "tcgplayerProductId": 4559,
+            "text": "Bird creatures get +1/+1.\n{1}{W}: Target Bird creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
+            "toughness": "2",
+            "type": "Legendary Creature — Human",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "ac13956f-73f5-54f8-bf7f-f09bb2409e38"
         }
     ],
     "code": "SRY",
