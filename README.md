@@ -36,6 +36,8 @@ Cards that create a lot of consistency could alter the old school "rythm", so we
 
 # Images
 Images are included here in three sizes and stores with ScryfallId as their name.
-* Small  (146 x 204) JPG
-* Normal (488 x 680) JPG
-* Large  (672 x 936) JPG
+* Small     (146 x 204)  JPG
+* Normal    (488 x 680)  JPG
+* Large     (672 x 936)  JPG
+* Art Crop  (582 x 467)  JPG
+* PNG       (745 x 1040) PNG
