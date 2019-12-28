@@ -1898,9 +1898,9 @@
             "colors": [
                 "G"
             ],
-            "convertedManaCost": 5,
+            "convertedManaCost": 5.0,
             "edhrecRank": 16041,
-            "flavorText": "\"Beautiful, indeed—but one sting could fell a Giant in a heartbeat.\" —Taaveti of Kelsinko, Elvish Hunter",
+            "flavorText": "\"There is no time for pain when this beast leaves its terrible sting.\" —Jaeuhl Carthalion, Juniper Order Advocate",
             "foreignData": [
                 {
                     "language": "German",
@@ -1941,10 +1941,9 @@
             "manaCost": "{4}{G}",
             "mcmId": 7916,
             "mcmMetaId": 1351,
-            "mtgoId": 24491,
-            "multiverseId": 3129,
+            "multiverseId": 3130,
             "name": "Deadly Insect",
-            "number": "86a",
+            "number": "86b",
             "originalText": "Cannot be the target of spells or effects.",
             "originalType": "Summon - Insect",
             "power": "6",
@@ -1952,7 +1951,7 @@
                 "mtgo": {},
                 "mtgoFoil": {},
                 "paper": {
-                    "2019-11-30": 0.15
+                    "2019-11-30": 0.05
                 },
                 "paperFoil": {}
             },
@@ -1964,27 +1963,27 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/3454b24bdba129d0",
-                "tcgplayer": "https://mtgjson.com/links/a21177bddb8e0974"
+                "tcgplayer": "https://mtgjson.com/links/e752d35f578a32cd"
             },
             "rarity": "common",
             "rulings": [],
-            "scryfallId": "add1b999-5c3f-4187-adac-ed1037406b3f",
-            "scryfallIllustrationId": "03f260df-5f85-4e25-bf25-3863775b4e5e",
+            "scryfallId": "030963d9-b59f-4ccb-abed-d817a4bc4e05",
+            "scryfallIllustrationId": "a2b10a69-a85f-4eaf-8b93-c47627c014d9",
             "scryfallOracleId": "98273b0d-2b41-486b-9498-30a692c03982",
             "subtypes": [
                 "Insect"
             ],
             "supertypes": [],
-            "tcgplayerProductId": 4122,
+            "tcgplayerProductId": 81811,
             "text": "Shroud (This creature can't be the target of spells or abilities.)",
             "toughness": "1",
             "type": "Creature — Insect",
             "types": [
                 "Creature"
             ],
-            "uuid": "1b6211ab-b137-530d-a66f-1ef63eb56120",
+            "uuid": "1d1537eb-37f4-511a-8cc7-f38eaad6e5a3",
             "variations": [
-                "1d1537eb-37f4-511a-8cc7-f38eaad6e5a3"
+                "1b6211ab-b137-530d-a66f-1ef63eb56120"
             ]
         },
         {
@@ -5873,13 +5872,15 @@
             "colors": [
                 "U"
             ],
-            "convertedManaCost": 2,
+            "convertedManaCost": 2.0,
             "edhrecRank": 1744,
-            "flavorText": "\"Oh, I had a conscience once. But alas, I seem to have forgotten where I put it.\" —Chandler",
+            "flavorText": "\"Um . . . oh . . . what was I saying?\" —Reveka, Wizard Savant",
             "foreignData": [
                 {
                     "language": "German",
-                    "name": "Gedächtnislücke"
+                    "name": "Gedächtnislücke",
+                    "text": "Neutralisiere einen Zauberspruch Deiner Wahl. Lege diesen Spruch oben auf die Bibliothek seines Besitzers.",
+                    "type": "Unterbrechungszauber"
                 },
                 {
                     "language": "Spanish",
@@ -5913,16 +5914,16 @@
             "manaCost": "{1}{U}",
             "mcmId": 7753,
             "mcmMetaId": 3531,
-            "multiverseId": 2950,
+            "multiverseId": 2949,
             "name": "Memory Lapse",
-            "number": "32b",
+            "number": "32a",
             "originalText": "Counter target spell. Put that spell on top of its owner's library.",
             "originalType": "Interrupt",
             "prices": {
                 "mtgo": {},
                 "mtgoFoil": {},
                 "paper": {
-                    "2019-11-30": 0.06
+                    "2019-11-30": 0.19
                 },
                 "paperFoil": {}
             },
@@ -5943,7 +5944,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/a795294c860920ef",
-                "tcgplayer": "https://mtgjson.com/links/ab17b6fed4f40f96"
+                "tcgplayer": "https://mtgjson.com/links/8ace90d8ffdf2ee4"
             },
             "rarity": "common",
             "rulings": [
@@ -5952,20 +5953,20 @@
                     "text": "Memory Lapse has a self-replacement effect that replaces the spell going to the graveyard before any other effect can replace that event. If the spell was cast using flashback, however, flashback will change the spell’s destination from its owner’s library to exile."
                 }
             ],
-            "scryfallId": "6c8b5df3-6153-470e-be9c-f38d3cf66081",
-            "scryfallIllustrationId": "e37736ba-90c6-4e21-af2c-1259475b7bf7",
+            "scryfallId": "3d2cc591-3a81-468a-91a4-3c3aac83a21a",
+            "scryfallIllustrationId": "82b124ed-5206-41d3-83f1-3cb8c8700c11",
             "scryfallOracleId": "bbfb3e4a-b389-4391-8141-13b68c0ef2e0",
             "subtypes": [],
             "supertypes": [],
-            "tcgplayerProductId": 18282,
+            "tcgplayerProductId": 4525,
             "text": "Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.",
             "type": "Instant",
             "types": [
                 "Instant"
             ],
-            "uuid": "64d73c3e-35f3-5378-b8f7-f61c7ae9f3ac",
+            "uuid": "29871643-7b12-5781-af12-363b211d03ad",
             "variations": [
-                "29871643-7b12-5781-af12-363b211d03ad"
+                "64d73c3e-35f3-5378-b8f7-f61c7ae9f3ac"
             ]
         },
         {
@@ -7299,7 +7300,7 @@
             ]
         },
         {
-            "artist": "Christopher Rush",
+            "artist": "Ron Spencer",
             "borderColor": "black",
             "colorIdentity": [
                 "B"
@@ -7307,9 +7308,9 @@
             "colors": [
                 "B"
             ],
-            "convertedManaCost": 2,
+            "convertedManaCost": 2.0,
             "edhrecRank": 12292,
-            "flavorText": "\"There are intriguing similarities between the Order and Icatia's Leitbur religion, suggesting the two had a common origin.\" —Sarpadian Empires, vol. VI",
+            "flavorText": "Dedicated to the principles of Tourach, members of the Order of the Ebon Hand demonstrated their devotion with grisly rituals.",
             "foreignData": [],
             "frameVersion": "1993",
             "hasFoil": false,
@@ -7328,28 +7329,28 @@
             "manaCost": "{B}{B}",
             "mcmId": 7427,
             "mcmMetaId": 4021,
-            "mtgstocksId": 26924,
-            "multiverseId": 1862,
+            "mtgstocksId": 26925,
+            "multiverseId": 1864,
             "name": "Order of the Ebon Hand",
-            "number": "42b",
+            "number": "42c",
             "originalText": "Protection from white\noBooB +1/+0 until end of turn\nooB First strike until end of turn",
             "originalType": "Summon - Clerics",
             "power": "2",
             "prices": {
                 "paper": {
-                    "2019-06-16": 0.22,
-                    "2019-06-23": 0.22,
-                    "2019-06-30": 0.22,
-                    "2019-07-07": 0.21,
-                    "2019-07-14": 0.21,
-                    "2019-07-21": 0.22,
+                    "2019-06-16": 0.23,
+                    "2019-06-23": 0.24,
+                    "2019-06-30": 0.23,
+                    "2019-07-07": 0.23,
+                    "2019-07-14": 0.23,
+                    "2019-07-21": 0.23,
                     "2019-07-28": 0.23,
                     "2019-08-04": 0.23,
                     "2019-08-11": 0.23,
                     "2019-08-18": 0.23,
                     "2019-08-25": 0.23,
-                    "2019-09-01": 0.23,
-                    "2019-09-08": 0.22
+                    "2019-09-01": 0.24,
+                    "2019-09-08": 0.24
                 },
                 "paperFoil": {}
             },
@@ -7360,30 +7361,30 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/42013c7cae69e3a1",
-                "mtgstocks": "https://mtgjson.com/links/6906029a2ee7100c",
-                "tcgplayer": "https://mtgjson.com/links/c740a2816dd4dd19"
+                "mtgstocks": "https://mtgjson.com/links/4b7fbc9d2b6e4e20",
+                "tcgplayer": "https://mtgjson.com/links/49c1f39336320264"
             },
             "rarity": "common",
             "rulings": [],
-            "scryfallId": "60ffbb40-13c1-4d01-9421-95b2410d0d3b",
-            "scryfallIllustrationId": "def5e829-d365-43d5-8d61-07e00c6c0b6f",
+            "scryfallId": "22c32774-5507-4a60-9ed2-2a570f6ff8e3",
+            "scryfallIllustrationId": "d893075e-4a72-4183-a0eb-3de3e4512b56",
             "scryfallOracleId": "2f65f16f-c6c2-48f0-b556-63cf7d162000",
             "subtypes": [
                 "Cleric",
                 "Knight"
             ],
             "supertypes": [],
-            "tcgplayerProductId": 18249,
+            "tcgplayerProductId": 18250,
             "text": "Protection from white\n{B}: Order of the Ebon Hand gains first strike until end of turn.\n{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.",
             "toughness": "1",
             "type": "Creature — Cleric Knight",
             "types": [
                 "Creature"
             ],
-            "uuid": "506d4613-7d4b-55a6-b593-e40b123cdee9",
+            "uuid": "6f8aea7a-0347-59de-a253-3a2d78be305d",
             "variations": [
                 "29febcd9-da07-57db-98fc-2e5ef74898d5",
-                "6f8aea7a-0347-59de-a253-3a2d78be305d"
+                "506d4613-7d4b-55a6-b593-e40b123cdee9"
             ]
         },
         {
@@ -10039,9 +10040,9 @@
             "colors": [
                 "U"
             ],
-            "convertedManaCost": 2,
+            "convertedManaCost": 2.0,
             "edhrecRank": 10109,
-            "flavorText": "\"Watch for it! Right on its tailfeathers will be a storm from your nightmares.\" —Arna Kennerüd, Skycaptain",
+            "flavorText": "\"It tells you that the worst is coming. Do you listen?\"\n—Lovisa Coldeyes, Balduvian Chieftain",
             "foreignData": [
                 {
                     "language": "German",
@@ -10083,9 +10084,9 @@
             "manaCost": "{1}{U}",
             "mcmId": 7906,
             "mcmMetaId": 5635,
-            "multiverseId": 3120,
+            "multiverseId": 3119,
             "name": "Storm Crow",
-            "number": "36b",
+            "number": "36a",
             "originalText": "Flying",
             "originalType": "Summon - Bird",
             "power": "1",
@@ -10093,7 +10094,7 @@
                 "mtgo": {},
                 "mtgoFoil": {},
                 "paper": {
-                    "2019-11-30": 0.14
+                    "2019-11-30": 0.13
                 },
                 "paperFoil": {}
             },
@@ -10109,27 +10110,27 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/211a40344ed5b1d9",
-                "tcgplayer": "https://mtgjson.com/links/20de50c5e5cbd4d4"
+                "tcgplayer": "https://mtgjson.com/links/95ac6f5a298ff521"
             },
             "rarity": "common",
             "rulings": [],
-            "scryfallId": "2dbf72f7-2360-4105-beae-946556884e40",
-            "scryfallIllustrationId": "c28c7cc0-e75d-46da-98e9-eeae1dad187b",
+            "scryfallId": "a2d4ea78-16f1-46ac-8a60-db20c37aad5e",
+            "scryfallIllustrationId": "36820683-0872-4ce7-9a99-b1f49ff5cc11",
             "scryfallOracleId": "000d5588-5a4c-434e-988d-396632ade42c",
             "subtypes": [
                 "Bird"
             ],
             "supertypes": [],
-            "tcgplayerProductId": 4252,
+            "tcgplayerProductId": 81849,
             "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
             "toughness": "2",
             "type": "Creature — Bird",
             "types": [
                 "Creature"
             ],
-            "uuid": "3e618dd8-8f95-539c-b373-9f23538ad2a0",
+            "uuid": "17ca76a0-1b55-5f45-8375-4f39eab7a68f",
             "variations": [
-                "17ca76a0-1b55-5f45-8375-4f39eab7a68f"
+                "3e618dd8-8f95-539c-b373-9f23538ad2a0"
             ]
         },
         {
@@ -11154,9 +11155,9 @@
             "colors": [
                 "G"
             ],
-            "convertedManaCost": 1,
+            "convertedManaCost": 1.0,
             "edhrecRank": 14504,
-            "flavorText": "\"It is the work of sorcery. Burn it!\" —Taaveti of Kelsinko, Elvish Hunter",
+            "flavorText": "\"The art of war is turning obstacle to advantage.\" —Jaeuhl Carthalion, Juniper Order Advocate",
             "foreignData": [
                 {
                     "language": "German",
@@ -11196,16 +11197,16 @@
             "manaCost": "{G}",
             "mcmId": 7939,
             "mcmMetaId": 6212,
-            "multiverseId": 3152,
+            "multiverseId": 3153,
             "name": "Undergrowth",
-            "number": "102a",
+            "number": "102b",
             "originalText": "No creatures deal damage in combat this turn. If you pay o2oR in addition to the casting cost, Undergrowth does not affect red creatures.",
             "originalType": "Instant",
             "prices": {
                 "mtgo": {},
                 "mtgoFoil": {},
                 "paper": {
-                    "2019-11-30": 0.08
+                    "2019-11-30": 0.12
                 },
                 "paperFoil": {}
             },
@@ -11214,7 +11215,7 @@
             ],
             "purchaseUrls": {
                 "cardmarket": "https://mtgjson.com/links/9631220de252506f",
-                "tcgplayer": "https://mtgjson.com/links/599e950757cd3804"
+                "tcgplayer": "https://mtgjson.com/links/f99b90e11b1e5221"
             },
             "rarity": "common",
             "rulings": [
@@ -11223,20 +11224,20 @@
                     "text": "It means that red creatures still deal damage if you pay the additional cost."
                 }
             ],
-            "scryfallId": "9ade0829-8b90-4ed2-99f3-dd748e7706b8",
-            "scryfallIllustrationId": "44576a54-d6bc-42b4-891d-4168464da027",
+            "scryfallId": "7b07df91-49be-4a50-9d3b-ddde0e6c1be9",
+            "scryfallIllustrationId": "23e12e45-3c97-42d9-ace8-72bb0eb23177",
             "scryfallOracleId": "f125b6b0-c5ff-44d1-bf99-ebc537d37fc3",
             "subtypes": [],
             "supertypes": [],
-            "tcgplayerProductId": 81853,
+            "tcgplayerProductId": 4270,
             "text": "As an additional cost to cast this spell, you may pay {2}{R}.\nPrevent all combat damage that would be dealt this turn. If this spell's additional cost was paid, this effect doesn't affect combat damage that would be dealt by red creatures.",
             "type": "Instant",
             "types": [
                 "Instant"
             ],
-            "uuid": "49b81d05-69a1-54c1-8316-3908a1a7f0d3",
+            "uuid": "f70301ed-1358-5fd2-8517-ca4f9ca53af5",
             "variations": [
-                "f70301ed-1358-5fd2-8517-ca4f9ca53af5"
+                "49b81d05-69a1-54c1-8316-3908a1a7f0d3"
             ]
         },
         {
