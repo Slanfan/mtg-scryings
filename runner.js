@@ -11,6 +11,10 @@ let json = require('./scryings.json');
 
 json.cards.sort((a, b) => (a.name > b.name) ? 1 : -1)
 
+console.log(JSON.stringify(json));
+
+return
+
 let counter = 1;
 json.cards.forEach(card => {
 
