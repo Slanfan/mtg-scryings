@@ -11,29 +11,21 @@ let json = require('./scryings.json');
 
 json.cards.sort((a, b) => (a.name > b.name) ? 1 : -1)
 
-console.log(JSON.stringify(json));
+// console.log(JSON.stringify(json));
 
-return
+// return
 
-let counter = 1;
+// let counter = 1;
+// json.cards.forEach(card => {
+
+//     let preCounter = '';
+//     if (getlength(counter) === 2) { preCounter = '0' + counter }
+//     else if (getlength(counter) === 1) { preCounter = '00' + counter }
+//     else { preCounter = counter }
+//     console.log(preCounter + ": " + card.name);
+//     counter++;
+// });
+
 json.cards.forEach(card => {
-
-    let preCounter = '';
-    if (getlength(counter) === 2) { preCounter = '0' + counter }
-    else if (getlength(counter) === 1) { preCounter = '00' + counter }
-    else { preCounter = counter }
-    console.log(preCounter + ": " + card.name);
-    counter++;
-});
-
-console.log("===================================");
-
-json.prospects.forEach(card => {
-
-    let preCounter = '';
-    if (getlength(counter) === 2) { preCounter = '0' + counter }
-    else if (getlength(counter) === 1) { preCounter = '00' + counter }
-    else { preCounter = counter }
-    console.log(preCounter + ": " + card.name);
-    counter++;
+    console.log(card.name);
 });
