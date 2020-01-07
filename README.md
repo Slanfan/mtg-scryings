@@ -5,13 +5,13 @@
 **Release date:** December 28th 2019
 **Set size:** 116 (40 common, 35 uncommon, 41 rare)
 **Origins:**
-* Fallen Empires
-* Ice Age
-* Homelands
-* Alliances
-* Mirage
-* Visions
-* Weatherlight
+* Fallen Empires (fem)
+* Ice Age (ice)
+* Homelands (hml)
+* Alliances (all)
+* Mirage (mir)
+* Visions (vis)
+* Weatherlight (wth)
 
 **Legality:** Occasional and at organizers' discretion; e.g. at n00bcon 12
 
